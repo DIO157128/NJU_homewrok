@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.CompanyAccountDao">
+
+    <insert id="addCompanyAccount" parameterType="CompanyAccountPO" useGeneratedKeys="true" keyProperty="id">
+        insert into company_account (id, name, balance)
+        values (#{id}, #{name}, #{balance})
+    </insert>
+
+    <select id="findOneByName" resultMap="CompanyAccountPO">
+        select * from company_account where name = #{name}
+    </select>
+
+    <select id="findOneById" resultMap="CompanyAccountPO">
+        select * from company_account where id = #{id}
+    </select>
+
+    <select id="queryAllAccounts" resultMap="CompanyAccountPO">
+        select * from company_account
+    </select>
+
+    <update id="updateCompanyAccount" parameterType="CompanyAccountPO">
+        update company_account
+        <set>
+            <if test = "name != null">name = #{name}, </if>
+            <if test = "balance != null">balance = #{balance}, </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <delete id="deleteCompanyAccount">
+        delete from company_account where id = #{id}
+    </delete>
+
+    <resultMap id="CompanyAccountPO" type="com.nju.edu.erp.model.po.CompanyAccountPO">
+        <id column="id" property="id"></id>
+        <result column="name" property="name"></result>
+        <result column="balance" property="balance"></result>
+    </resultMap>
+
+</mapper>

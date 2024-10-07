@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja C:\Users\dell\Desktop\C++\homework3
+    -- src/1.cpp will be compiled to bin/1
+    -- src/2.cpp will be compiled to bin/2
+    -- src/3.cpp will be compiled to bin/3
+    -- src/4.cpp will be compiled to bin/4
+    -- src/5.cpp will be compiled to bin/5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/dell/Desktop/C++/homework3/cmake-build-debug

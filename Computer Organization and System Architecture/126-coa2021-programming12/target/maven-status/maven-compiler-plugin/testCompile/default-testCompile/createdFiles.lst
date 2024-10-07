@@ -1,0 +1,5 @@
+cpu\instr\JmpTest.class
+cpu\instr\MovTest.class
+cpu\instr\AddTest.class
+cpu\instr\SubTest.class
+cpu\instr\InstrBuilder.class

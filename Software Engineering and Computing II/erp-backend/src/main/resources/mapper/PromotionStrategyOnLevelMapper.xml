@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.PromotionStrategyOnLevelDao">
+    <update id="setPromotionStrategyOnLevel" parameterType="PromotionStrategyOnLevelPO" useGeneratedKeys="true" keyProperty="id">
+        insert into `promotion_strategy_onlevel`(level,discount,voucher,start_time,end_time,create_time)
+        values(#{level},#{discount},#{voucher},#{start_time},#{end_time},#{create_time})
+    </update>
+
+    <select id="getDiscountByLevel" resultType="BigDecimal">
+        select discount
+        from promotion_strategy_onlevel
+        where level=#{level} And (current_date() between start_time and end_time);
+    </select>
+
+    <select id="getVoucherByLevel" resultType="BigDecimal">
+        select voucher
+        from `promotion_strategy_onlevel`
+        where level=#{level} And current_date() between start_time and end_time
+    </select>
+
+    <select id="getStartTime" resultType="Date">
+        select start_time
+        from `promotion_strategy_onlevel`
+        where id=#{id};
+    </select>
+
+    <select id="getEndTime" resultType="Date">
+        select end_time
+        from `promotion_strategy_onlevel`
+        where id=#{id};
+    </select>
+
+    <select id="getAllPromotionStrategyOnLevel" resultMap="PromotionStrategyOnLevelPO">
+        select *
+        from `promotion_strategy_onlevel`;
+    </select>
+
+    <update id="updateById" parameterType="PromotionStrategyOnLevelPO">
+        update `promotion_strategy_onlevel`
+        <set>
+            <if test="level !=null">`level`=#{level},</if>
+            <if test="discount !=null">`discount`=#{discount},</if>
+            <if test="voucher !=null">`voucher`=#{voucher},</if>
+            <if test="start_time!=null">`start_time`=#{start_time},</if>
+            <if test="end_time!=null">`end_time`=#{end_time},</if>
+            <if test="create_time!=null">`create_time`=#{create_time},</if>
+        </set>
+        where id=#{id}
+    </update>
+
+    <select id="findById" resultType="PromotionStrategyOnLevelPO">
+        select *
+        from `promotion_strategy_onlevel`
+        where id=#{id};
+    </select>
+
+    <delete id="deleteById">
+        delete from promotion_strategy_onlevel where id = #{id}
+    </delete>
+
+    <select id="getStrategyOnOneLevel" resultMap="PromotionStrategyOnLevelPO">
+        select *
+        from `promotion_strategy_onlevel`
+        where level=#{level};
+    </select>
+
+
+    <resultMap id="PromotionStrategyOnLevelPO" type="com.nju.edu.erp.model.po.PromotionStrategyOnLevelPO">
+        <id column="id" property="id"></id>
+        <result column="level" property="level"></result>
+        <result column="discount" property="discount"></result>
+        <result column="voucher" property="voucher"></result>
+        <result column="start_time" property="start_time"></result>
+        <result column="end_time" property="end_time"></result>
+        <result column="create_time" property="create_time"></result>
+
+    </resultMap>
+
+</mapper>

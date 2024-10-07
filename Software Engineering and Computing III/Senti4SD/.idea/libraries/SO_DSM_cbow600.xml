@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SO_DSM_cbow600">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Senti4SD_GoldStandard_and_DSM/SO_DSM_cbow600.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

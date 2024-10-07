@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.ReceiveSheetDao">
+    <insert id="saveSheet">
+        insert into receive_sheet (id, customer_name, customer_type,state,operator,all_amount,discount,create_date,actual_amount)
+        values (#{id},#{customerName},#{customerType},#{state}, #{operator}, #{allAmount},#{discount},#{createDate},#{actualAmount}) ;
+    </insert>
+
+    <insert id="saveBatchSheetContent" useGeneratedKeys="true" keyProperty="id">
+        insert into receive_sheet_content (receive_sheet_id, bank_account, remark, transfer_amount) values
+        <foreach collection="list" item="item" index="index" separator=",">
+            (#{item.receiveSheetId},#{item.bankAccount},#{item.remark},#{item.transferAmount})
+        </foreach>
+    </insert>
+
+    <select id="findAllSheetByState" resultType="com.nju.edu.erp.model.po.receive.ReceiveSheetPO">
+        select * from receive_sheet where state=#{state}
+    </select>
+
+    <select id="findAllSheetByDate" resultType="com.nju.edu.erp.model.po.receive.ReceiveSheetPO">
+        select * from receive_sheet where state = '审批完成' and create_date between #{fromDate} and #{toDate}
+    </select>
+
+    <update id="updateSheetState">
+        update receive_sheet
+        set state = #{state}
+        where id = #{sheetId}
+    </update>
+
+    <update id="updateSheetStateOnPrev">
+        update receive_sheet
+        set state = #{state}
+        where id = #{sheetId} and state = #{prev}
+    </update>
+
+
+
+    <select id="findAllSheet" resultType="com.nju.edu.erp.model.po.receive.ReceiveSheetPO">
+        select * from receive_sheet;
+    </select>
+
+    <select id="findContentBySheetId" resultType="com.nju.edu.erp.model.po.receive.ReceiveSheetContentPO">
+        select * from receive_sheet_content where receive_sheet_id = #{sheetId};
+    </select>
+
+    <select id="findSheetById" resultType="com.nju.edu.erp.model.po.receive.ReceiveSheetPO">
+        select * from receive_sheet where id = #{id};
+    </select>
+
+    <select id="getLatestSheet" resultType="com.nju.edu.erp.model.po.receive.ReceiveSheetPO">
+        select * from receive_sheet order by id desc limit 0,1 ;
+    </select>
+</mapper>

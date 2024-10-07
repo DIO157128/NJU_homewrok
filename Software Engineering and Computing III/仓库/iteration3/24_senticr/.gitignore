@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+
+SentiCR/logs/
+
+cross-validation-results/

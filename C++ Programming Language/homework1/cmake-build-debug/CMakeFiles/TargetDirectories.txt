@@ -1,0 +1,7 @@
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/base64.dir
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/wordcount.dir
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/specialele.dir
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/partialmul.dir
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/reverse.dir
+C:/Users/dell/Desktop/C++/homework1/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,4 @@
+Solver name: L2-regularized logistic regression (primal)
+Best C value: 0.5
+Tuning time: 00:00:13
+Accuracy: 0.8627450980392157

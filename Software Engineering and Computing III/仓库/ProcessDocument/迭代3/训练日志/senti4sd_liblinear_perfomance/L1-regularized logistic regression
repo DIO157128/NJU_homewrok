@@ -1,0 +1,4 @@
+Solver name: L1-regularized logistic regression
+Best C value: 0.5
+Tuning time: 00:00:07
+Accuracy: 0.8763197586726998

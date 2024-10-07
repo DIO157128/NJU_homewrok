@@ -1,0 +1,4 @@
+Solver name: L2-regularized L2-loss support vector classification (primal)
+Best C value: 0.01
+Tuning time: 00:00:17
+Accuracy: 0.8552036199095022

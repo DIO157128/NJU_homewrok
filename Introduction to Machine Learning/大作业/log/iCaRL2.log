@@ -1,0 +1,113 @@
+[INFO] main.py:35 > Set the device (cpu)
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:100 > Apply before_task
+[INFO] finetune.py:104 > Increasing fc layer:  0  ---->  20
+[INFO] finetune.py:123 > Reset the optimizer and scheduler states
+[INFO] iCaRL.py:69 > ##########Start Training##########
+[INFO] iCaRL.py:76 > New training samples: 10500
+[INFO] iCaRL.py:77 > In-memory samples: 0
+[INFO] iCaRL.py:78 > Train samples: 10500
+[INFO] iCaRL.py:79 > Test samples: 2000
+[INFO] iCaRL.py:114 > Task 0 | Epoch 1/20 | lr 0.1000 | train_loss 2.7529 | train_acc 0.2245 | test_loss 2.4709 | test_acc 0.3020 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 2/20 | lr 0.1000 | train_loss 2.0892 | train_acc 0.3610 | test_loss 1.9994 | test_acc 0.3855 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 3/20 | lr 0.0505 | train_loss 1.7358 | train_acc 0.4536 | test_loss 1.7428 | test_acc 0.4720 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 4/20 | lr 0.1000 | train_loss 1.7292 | train_acc 0.4641 | test_loss 1.7699 | test_acc 0.4595 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 5/20 | lr 0.0855 | train_loss 1.5688 | train_acc 0.5093 | test_loss 1.6284 | test_acc 0.5035 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 6/20 | lr 0.0505 | train_loss 1.3551 | train_acc 0.5665 | test_loss 1.4134 | test_acc 0.5625 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 7/20 | lr 0.0155 | train_loss 1.1603 | train_acc 0.6217 | test_loss 1.2685 | test_acc 0.6130 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 8/20 | lr 0.1000 | train_loss 1.3589 | train_acc 0.5719 | test_loss 1.8159 | test_acc 0.4820 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 9/20 | lr 0.0962 | train_loss 1.2385 | train_acc 0.5989 | test_loss 1.6437 | test_acc 0.5150 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 10/20 | lr 0.0855 | train_loss 1.1085 | train_acc 0.6379 | test_loss 1.4373 | test_acc 0.5650 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 11/20 | lr 0.0694 | train_loss 0.9602 | train_acc 0.6837 | test_loss 1.1711 | test_acc 0.6545 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 12/20 | lr 0.0505 | train_loss 0.8307 | train_acc 0.7263 | test_loss 1.1509 | test_acc 0.6680 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 13/20 | lr 0.0316 | train_loss 0.7009 | train_acc 0.7671 | test_loss 1.0866 | test_acc 0.6770 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 14/20 | lr 0.0155 | train_loss 0.5989 | train_acc 0.8046 | test_loss 1.0009 | test_acc 0.7060 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 15/20 | lr 0.0048 | train_loss 0.5303 | train_acc 0.8299 | test_loss 0.9609 | test_acc 0.7130 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 16/20 | lr 0.1000 | train_loss 0.8879 | train_acc 0.7014 | test_loss 1.5191 | test_acc 0.5865 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 17/20 | lr 0.0990 | train_loss 0.8588 | train_acc 0.7140 | test_loss 1.4352 | test_acc 0.6135 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 18/20 | lr 0.0962 | train_loss 0.7657 | train_acc 0.7470 | test_loss 1.3040 | test_acc 0.6565 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 19/20 | lr 0.0917 | train_loss 0.6836 | train_acc 0.7736 | test_loss 1.1949 | test_acc 0.6625 |
+[INFO] iCaRL.py:114 > Task 0 | Epoch 20/20 | lr 0.0855 | train_loss 0.6118 | train_acc 0.7903 | test_loss 1.1407 | test_acc 0.6710 |
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:100 > Apply before_task
+[INFO] finetune.py:104 > Increasing fc layer:  20  ---->  40
+[INFO] finetune.py:123 > Reset the optimizer and scheduler states
+[INFO] iCaRL.py:69 > ##########Start Training##########
+[INFO] iCaRL.py:76 > New training samples: 10000
+[INFO] iCaRL.py:77 > In-memory samples: 500
+[INFO] iCaRL.py:78 > Train samples: 10500
+[INFO] iCaRL.py:79 > Test samples: 4000
+[INFO] iCaRL.py:114 > Task 1 | Epoch 1/20 | lr 0.1000 | train_loss 1.7704 | train_acc 0.5217 | test_loss 3.2258 | test_acc 0.3325 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 2/20 | lr 0.1000 | train_loss 1.0213 | train_acc 0.6815 | test_loss 2.3677 | test_acc 0.4200 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 3/20 | lr 0.0505 | train_loss 0.7930 | train_acc 0.7453 | test_loss 2.2167 | test_acc 0.4522 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 4/20 | lr 0.1000 | train_loss 0.7969 | train_acc 0.7389 | test_loss 2.6324 | test_acc 0.4270 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 5/20 | lr 0.0855 | train_loss 0.6756 | train_acc 0.7832 | test_loss 2.1040 | test_acc 0.4910 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 6/20 | lr 0.0505 | train_loss 0.5205 | train_acc 0.8315 | test_loss 2.0615 | test_acc 0.5030 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 7/20 | lr 0.0155 | train_loss 0.3916 | train_acc 0.8750 | test_loss 1.8230 | test_acc 0.5427 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 8/20 | lr 0.1000 | train_loss 0.5692 | train_acc 0.8085 | test_loss 2.5188 | test_acc 0.4435 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 9/20 | lr 0.0962 | train_loss 0.5384 | train_acc 0.8170 | test_loss 2.2988 | test_acc 0.4693 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 10/20 | lr 0.0855 | train_loss 0.4494 | train_acc 0.8459 | test_loss 2.0903 | test_acc 0.5050 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 11/20 | lr 0.0694 | train_loss 0.3554 | train_acc 0.8837 | test_loss 2.0068 | test_acc 0.5212 |
+[INFO] iCaRL.py:114 > Task 1 | Epoch 12/20 | lr 0.0505 | train_loss 0.2789 | train_acc 0.9060 | test_loss 2.1158 | test_acc 0.5353 |
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:100 > Apply before_task
+[INFO] finetune.py:104 > Increasing fc layer:  40  ---->  60
+[INFO] finetune.py:123 > Reset the optimizer and scheduler states
+[INFO] iCaRL.py:69 > ##########Start Training##########
+[INFO] iCaRL.py:76 > New training samples: 10000
+[INFO] iCaRL.py:77 > In-memory samples: 480
+[INFO] iCaRL.py:78 > Train samples: 10480
+[INFO] iCaRL.py:79 > Test samples: 6000
+[INFO] iCaRL.py:114 > Task 2 | Epoch 1/20 | lr 0.1000 | train_loss 2.1609 | train_acc 0.4530 | test_loss 4.2368 | test_acc 0.2407 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 2/20 | lr 0.1000 | train_loss 1.2632 | train_acc 0.6248 | test_loss 3.5801 | test_acc 0.2828 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 3/20 | lr 0.0505 | train_loss 0.9770 | train_acc 0.6946 | test_loss 3.0949 | test_acc 0.3327 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 4/20 | lr 0.1000 | train_loss 0.9655 | train_acc 0.7020 | test_loss 3.3470 | test_acc 0.3123 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 5/20 | lr 0.0855 | train_loss 0.8351 | train_acc 0.7389 | test_loss 3.0228 | test_acc 0.3563 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 6/20 | lr 0.0505 | train_loss 0.6439 | train_acc 0.7950 | test_loss 3.0083 | test_acc 0.3677 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 7/20 | lr 0.0155 | train_loss 0.4764 | train_acc 0.8504 | test_loss 2.8473 | test_acc 0.3932 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 8/20 | lr 0.1000 | train_loss 0.6771 | train_acc 0.7808 | test_loss 4.0260 | test_acc 0.2912 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 9/20 | lr 0.0962 | train_loss 0.6732 | train_acc 0.7807 | test_loss 3.8088 | test_acc 0.3127 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 10/20 | lr 0.0855 | train_loss 0.5677 | train_acc 0.8152 | test_loss 3.4820 | test_acc 0.3507 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 11/20 | lr 0.0694 | train_loss 0.4277 | train_acc 0.8630 | test_loss 3.3760 | test_acc 0.3620 |
+[INFO] iCaRL.py:114 > Task 2 | Epoch 12/20 | lr 0.0505 | train_loss 0.3122 | train_acc 0.8997 | test_loss 3.1825 | test_acc 0.3897 |
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:100 > Apply before_task
+[INFO] finetune.py:104 > Increasing fc layer:  60  ---->  80
+[INFO] finetune.py:123 > Reset the optimizer and scheduler states
+[INFO] iCaRL.py:69 > ##########Start Training##########
+[INFO] iCaRL.py:76 > New training samples: 10000
+[INFO] iCaRL.py:77 > In-memory samples: 480
+[INFO] iCaRL.py:78 > Train samples: 10480
+[INFO] iCaRL.py:79 > Test samples: 8000
+[INFO] iCaRL.py:114 > Task 3 | Epoch 1/20 | lr 0.1000 | train_loss 1.8812 | train_acc 0.5538 | test_loss 4.9174 | test_acc 0.2131 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 2/20 | lr 0.1000 | train_loss 0.9316 | train_acc 0.7263 | test_loss 4.3495 | test_acc 0.2334 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 3/20 | lr 0.0505 | train_loss 0.6797 | train_acc 0.7936 | test_loss 3.7078 | test_acc 0.2890 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 4/20 | lr 0.1000 | train_loss 0.6570 | train_acc 0.7929 | test_loss 4.0868 | test_acc 0.2621 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 5/20 | lr 0.0855 | train_loss 0.5583 | train_acc 0.8246 | test_loss 4.1682 | test_acc 0.2654 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 6/20 | lr 0.0505 | train_loss 0.3921 | train_acc 0.8764 | test_loss 3.6452 | test_acc 0.3090 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 7/20 | lr 0.0155 | train_loss 0.2630 | train_acc 0.9255 | test_loss 3.6482 | test_acc 0.3151 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 8/20 | lr 0.1000 | train_loss 0.4197 | train_acc 0.8670 | test_loss 4.6019 | test_acc 0.2660 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 9/20 | lr 0.0962 | train_loss 0.4193 | train_acc 0.8638 | test_loss 4.1080 | test_acc 0.2838 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 10/20 | lr 0.0855 | train_loss 0.3219 | train_acc 0.8976 | test_loss 4.3528 | test_acc 0.2934 |
+[INFO] iCaRL.py:114 > Task 3 | Epoch 11/20 | lr 0.0694 | train_loss 0.2280 | train_acc 0.9277 | test_loss 4.1688 | test_acc 0.3050 |
+[INFO] main.py:87 > set train/test datalist for the current task!
+[INFO] finetune.py:100 > Apply before_task
+[INFO] finetune.py:104 > Increasing fc layer:  80  ---->  100
+[INFO] finetune.py:123 > Reset the optimizer and scheduler states
+[INFO] iCaRL.py:69 > ##########Start Training##########
+[INFO] iCaRL.py:76 > New training samples: 10000
+[INFO] iCaRL.py:77 > In-memory samples: 480
+[INFO] iCaRL.py:78 > Train samples: 10480
+[INFO] iCaRL.py:79 > Test samples: 10000
+[INFO] iCaRL.py:114 > Task 4 | Epoch 1/20 | lr 0.1000 | train_loss 1.7785 | train_acc 0.5845 | test_loss 4.9254 | test_acc 0.2049 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 2/20 | lr 0.1000 | train_loss 0.7676 | train_acc 0.7754 | test_loss 4.3609 | test_acc 0.2264 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 3/20 | lr 0.0505 | train_loss 0.5130 | train_acc 0.8442 | test_loss 4.2145 | test_acc 0.2487 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 4/20 | lr 0.1000 | train_loss 0.5056 | train_acc 0.8445 | test_loss 4.4974 | test_acc 0.2436 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 5/20 | lr 0.0855 | train_loss 0.3946 | train_acc 0.8786 | test_loss 4.0993 | test_acc 0.2752 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 6/20 | lr 0.0505 | train_loss 0.2599 | train_acc 0.9211 | test_loss 4.3524 | test_acc 0.2731 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 7/20 | lr 0.0155 | train_loss 0.1731 | train_acc 0.9497 | test_loss 4.2819 | test_acc 0.2831 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 8/20 | lr 0.1000 | train_loss 0.2909 | train_acc 0.9060 | test_loss 4.9134 | test_acc 0.2537 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 9/20 | lr 0.0962 | train_loss 0.2946 | train_acc 0.9038 | test_loss 4.7924 | test_acc 0.2566 |
+[INFO] iCaRL.py:114 > Task 4 | Epoch 10/20 | lr 0.0855 | train_loss 0.2250 | train_acc 0.9288 | test_loss 4.7484 | test_acc 0.2673 |
+[INFO] main.py:109 > ======== Summary =======
+[INFO] main.py:110 > A_last 0.2831

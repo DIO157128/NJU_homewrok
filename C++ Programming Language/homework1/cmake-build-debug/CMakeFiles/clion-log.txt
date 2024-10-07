@@ -1,0 +1,21 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\dell\Desktop\C++\homework1
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+    -- src/base64.cpp will be compiled to bin/base64
+    -- src/partialmul.cpp will be compiled to bin/partialmul
+    -- src/reverse.cpp will be compiled to bin/reverse
+    -- src/specialele.cpp will be compiled to bin/specialele
+    -- src/wordcount.cpp will be compiled to bin/wordcount
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/dell/Desktop/C++/homework1/cmake-build-debug

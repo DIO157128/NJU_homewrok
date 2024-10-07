@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <args>
+        <arg>input</arg>
+        <arg>inputfolder</arg>
+        <arg>outputfolder</arg>
+        <arg>resultextension</arg>
+        <arg>resultsextension</arg>
+        <arg>filesubstring</arg>
+        <arg>overwrite</arg>
+        <arg>text</arg>
+        <arg>urlencoded</arg>
+        <arg>listen</arg>
+        <arg>stdin</arg>
+        <arg>textcol</arg>
+        <arg>cmd</arg>
+        <arg>optimise</arg>
+        <arg>annotatecol</arg>
+        <arg>idcol</arg>
+        <arg>lang</arg>
+        <arg>train</arg>
+        <arg>all</arg>
+        <arg>numcorrect</arg>
+        <arg>iterations</arg>
+        <arg>minimprovement</arg>
+        <arg>multi</arg>
+        <arg>termweights</arg>
+    </args>
+</config>

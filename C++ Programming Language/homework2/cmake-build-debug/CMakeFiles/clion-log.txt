@@ -1,0 +1,22 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja C:\Users\dell\Desktop\课业相关\C++\homework2
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+    -- src/1.cpp will be compiled to bin/1
+    -- src/2.cpp will be compiled to bin/2
+    -- src/3.cpp will be compiled to bin/3
+    -- src/4.cpp will be compiled to bin/4
+    -- src/5.cpp will be compiled to bin/5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/dell/Desktop/璇句笟鐩稿叧/C++/homework2/cmake-build-debug
+CMake File API: C:\Users\dell\Desktop\课业相关\C++\homework2\cmake-build-debug: target-1-Debug-af2378af5d804fdb2a59.json: no CMakeLists.txt file at 'C:\Users\dell\Desktop\璇句笟鐩稿叧\C++\homework2\CMakeLists.txt'

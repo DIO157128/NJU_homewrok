@@ -1,0 +1,49 @@
+{
+    "pages": [
+        "pages/center/index",
+        "pages/list/index",
+        "pages/add/index",
+        "pages/file/index",
+        "pages/edit/index",
+        "pages/detail/index",
+        "pages/square/index",
+        "pages/proExchange/index",
+        "pages/createPro/index",
+        "pages/joinPro/index",
+        "pages/detailGroup/index",
+        "pages/guide/index"
+    ],
+    "window": {
+        "backgroundColor": "#000000",
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#A6A6A6",
+        "navigationBarTitleText": "Uwiki",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json",
+    "style": "v2",
+    "tabBar": {
+        "color": "#1485EE",
+        "selectedColor": "#FF514E",
+        "list": [
+            {
+                "pagePath": "pages/list/index",
+                "text": "主页",
+                "iconPath": "images/footer/team.png",
+                "selectedIconPath": "images/footer/teamChoose.png"
+            },
+            {
+                "pagePath": "pages/square/index",
+                "text": "广场",
+                "iconPath": "images/footer/square.png",
+                "selectedIconPath": "images/footer/squareChoose.png"
+            },
+            {
+                "pagePath": "pages/center/index",
+                "text": "个人中心",
+                "iconPath": "images/footer/center.png",
+                "selectedIconPath": "images/footer/centerChoose.png"
+            }
+        ]
+    }
+}

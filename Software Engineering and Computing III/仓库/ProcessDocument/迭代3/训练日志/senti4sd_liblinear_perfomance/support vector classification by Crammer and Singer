@@ -1,0 +1,4 @@
+Solver name: support vector classification by Crammer and Singer
+Best C value: 0.05
+Tuning time: 00:00:45
+Accuracy: 0.8627450980392157

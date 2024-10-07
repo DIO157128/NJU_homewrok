@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "JZ_offer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "base64::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-base64-Debug-b4b511d21582773f3c25.json",
+					"name" : "base64",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "partialmul::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-partialmul-Debug-277ad19ee85663b3ad5d.json",
+					"name" : "partialmul",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reverse-Debug-2fd42a0549e17ed23597.json",
+					"name" : "reverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "specialele::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-specialele-Debug-9ad03af1a90baea2bc72.json",
+					"name" : "specialele",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wordcount::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wordcount-Debug-f640383fa4331756cf47.json",
+					"name" : "wordcount",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dell/Desktop/C++/homework1/cmake-build-debug",
+		"source" : "C:/Users/dell/Desktop/C++/homework1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

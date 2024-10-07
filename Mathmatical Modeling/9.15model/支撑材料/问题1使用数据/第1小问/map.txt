@@ -1,0 +1,10 @@
+ornament:
+C:1
+A:2
+B:3
+type:
+高钾:1
+铅钡:2
+weather:
+无风化:1
+风化:2

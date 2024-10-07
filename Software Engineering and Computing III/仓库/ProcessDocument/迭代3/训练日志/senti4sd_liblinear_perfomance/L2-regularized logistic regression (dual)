@@ -1,0 +1,4 @@
+Solver name: L2-regularized logistic regression (dual)
+Best C value: 1
+Tuning time: 00:00:22
+Accuracy: 0.8665158371040724

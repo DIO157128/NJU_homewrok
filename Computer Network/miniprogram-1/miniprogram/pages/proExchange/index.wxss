@@ -1,0 +1,15 @@
+
+
+.radio {
+    margin-right: 20px;
+  }
+
+.show-pro {
+  margin-left: 35rpx;
+  line-height: 3.5ch;
+}
+
+/* .weui-cell__hd {
+  color: black;
+} */
+  

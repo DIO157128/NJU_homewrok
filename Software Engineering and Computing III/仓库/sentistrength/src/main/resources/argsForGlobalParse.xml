@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <methods>
+        <method>parseInput</method>
+        <method>parseInputFolder</method>
+        <method>parseOutputFolder</method>
+        <method>parseResultExtension</method>
+        <method>parseResultsExtension</method>
+        <method>parseFileSubstring</method>
+        <method>parseOverWrite</method>
+        <method>parseText</method>
+        <method>parseUrlEncoded</method>
+        <method>parseListen</method>
+        <method>parseStdin</method>
+        <method>parseTextCol</method>
+        <method>parseCmd</method>
+        <method>parseOptimise</method>
+        <method>parseAnnotateCol</method>
+        <method>parseIdCol</method>
+        <method>parseLang</method>
+        <method>parseTrain</method>
+        <method>parseAll</method>
+        <method>parseNumCorrect</method>
+        <method>parseIterations</method>
+        <method>parseMinImprovement</method>
+        <method>parseMulti</method>
+        <method>parseTermWeights</method>
+    </methods>
+</config>

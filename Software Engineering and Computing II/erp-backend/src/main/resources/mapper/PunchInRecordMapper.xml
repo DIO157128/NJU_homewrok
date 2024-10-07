@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.PunchInRecordDao">
+
+
+
+    <insert id="punchIn">
+        insert into punch_in_record(staff_id, staff_name, punch_in_time) VALUES
+        (#{staffId},#{staffName},#{punchInTime});
+    </insert>
+
+    <select id="checkPunchIn" resultType="java.lang.Integer">
+        select count(*)
+        from punch_in_record
+        where staff_id=#{staffId} and YEAR(punch_in_time)=YEAR(#{punchInTime}) and MONTH(punch_in_time)=MONTH(#{punchInTime}) and DAY(punch_in_time)=DAY(#{punchInTime});
+    </select>
+
+    <select id="findByIdAndPeriod" resultType="PunchInRecordContentPO">
+        select *
+        from punch_in_record
+        where staff_id=#{staffId} and punch_in_time between #{t1} and #{t2};
+    </select>
+
+
+    <select id="countByIdAndPeriod" resultType="java.lang.Integer">
+        select count(*)
+        from punch_in_record
+        where staff_id=#{staffId} and punch_in_time between #{t1} and #{t2};
+    </select>
+
+
+    <select id="findAllRecord" resultMap="PunchInRecordPO">
+        select staff_id,staff_name,COUNT(*) as times
+        from punch_in_record
+        where punch_in_time between #{t1} and #{t2}
+        group by staff_id;
+    </select>
+
+    <resultMap id="PunchInRecordContentPO" type="com.nju.edu.erp.model.po.punchIn.PunchInRecordContentPO">
+        <id column="staff_id" property="staffId"></id>
+        <result column="staff_name" property="staffName"></result>
+        <result column="punch_in_time" property="punchInTime"></result>
+    </resultMap>
+
+    <resultMap id="PunchInRecordPO" type="com.nju.edu.erp.model.po.punchIn.PunchInRecordPO">
+        <id column="staff_id" property="staffId"></id>
+        <id column="staff_name" property="staffName"></id>
+        <id column="times" property="times"></id>
+    </resultMap>
+
+
+</mapper>

@@ -1,0 +1,14 @@
+<view class="weui-cells weui-cells_after-title">
+        <radio-group bindchange="radioChange">
+          <label class="weui-cell weui-check__label" wx:for="{{groups}}" wx:key="{{item.value}}">
+
+            <view class="weui-cell__hd">
+              <radio color="black" value="{{item.groupId}}" checked="{{currentId == item.groupId}}"/>
+            </view>
+            <view class="show-pro">
+              <view class="weui-cell__bd">{{item.title}}</view>
+              <view class="weui-cell__bd">邀请码：{{item.groupId}}</view>
+            </view>
+          </label>
+        </radio-group>
+</view>

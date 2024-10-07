@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.SalarySheetDao">
+    <insert id="saveSheet">
+        insert into salary_sheet (id, staff_id, staff_name, card_account, due_salary, tax, actual_salary, state,
+                                  create_date, type)
+        values (#{id}, #{staffId}, #{staffName}, #{cardAccount}, #{dueSalary}, #{tax}, #{actualSalary}, #{state},
+                #{createDate}, #{type});
+    </insert>
+
+    <select id="findIfSalaryHasBeenMade" resultType="java.lang.Integer">
+        select count(*)
+        from salary_sheet
+        where staff_id = #{staffId}
+          and create_date between #{d1} and #{d2};
+    </select>
+
+    <select id="findIfSalaryHasBeenMadeGM" resultType="java.lang.Integer">
+        select count(*)
+        from salary_sheet ss
+                 join staff s on s.id = ss.staff_id
+        where s.id = #{staffId}
+          and YEAR(ss.create_date) = #{year}
+          and exists(
+                select *
+                from post
+                where post_name = 'GM'
+                  and post.id = s.post_id
+            );
+    </select>
+
+    <select id="findAnnual" resultMap="SalarySheetPO">
+        select *
+        from salary_sheet ss
+        where staff_id=#{staffId} and YEAR(ss.create_date)=#{year};
+    </select>
+
+
+    <select id="findIfAnnualHasBeenMade" resultType="java.lang.Integer">
+        select count(*)
+        from salary_sheet ss
+        where staff_id=#{staffId} and YEAR(ss.create_date) = #{year} and type=2;
+    </select>
+
+    <select id="findAllSheetByState" resultMap="SalarySheetPO">
+        select *
+        from salary_sheet
+        where state = #{state}
+    </select>
+
+    <select id="findAllSheetByDate" resultMap="SalarySheetPO">
+        select *
+        from salary_sheet
+        where state = '审批通过'
+          and create_date between #{fromDate} and #{toDate}
+    </select>
+
+    <update id="updateSheetState">
+        update salary_sheet
+        set state = #{state}
+        where id = #{sheetId}
+    </update>
+
+    <update id="updateSheetStateOnPrev">
+        update salary_sheet
+        set state = #{state}
+        where id = #{sheetId}
+          and state = #{prev}
+    </update>
+
+
+    <select id="findAllSheet" resultMap="SalarySheetPO">
+        select *
+        from salary_sheet;
+    </select>
+
+
+    <select id="findSheetById" resultMap="SalarySheetPO">
+        select *
+        from salary_sheet
+        where id = #{id};
+    </select>
+
+    <select id="getLatestSheet" resultMap="SalarySheetPO">
+        select *
+        from salary_sheet
+        order by id desc
+        limit 0,1;
+    </select>
+
+    <delete id="deleteAll">
+        delete from salary_sheet;
+    </delete>
+
+    <select id="findMaxId" resultType="java.lang.String">
+        select max(id)
+        from salary_sheet;
+    </select>
+
+    <resultMap id="SalarySheetPO" type="com.nju.edu.erp.model.po.salary.SalarySheetPO">
+        <id column="id" property="id"></id>
+        <result column="staff_id" property="staffId"></result>
+        <result column="staff_name" property="staffName"></result>
+        <result column="card_account" property="cardAccount"></result>
+        <result column="due_salary" property="dueSalary"></result>
+        <result column="tax" property="tax"></result>
+        <result column="actual_salary" property="actualSalary"></result>
+        <result column="state" property="state"></result>
+        <result column="create_date" property="createDate"></result>
+        <result column="type" property="type"></result>
+    </resultMap>
+
+</mapper>

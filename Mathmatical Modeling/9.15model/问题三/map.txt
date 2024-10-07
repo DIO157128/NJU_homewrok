@@ -1,0 +1,5 @@
+高钾_K2O_Na2O_CaO_SiO2:1
+高钾_K2O_Na2O_SiO2:2
+高钾_K2O_SiO2:3
+铅钡_SiO2:4
+铅钡_SiO2_BaO:5

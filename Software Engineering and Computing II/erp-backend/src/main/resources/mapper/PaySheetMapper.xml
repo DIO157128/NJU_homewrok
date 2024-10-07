@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.PaySheetDao">
+    <insert id="saveSheet">
+        insert into pay_sheet (id, bank_account, state, operator, all_amount,create_date,payer_id)
+        values (#{id},#{bankAccount},#{state},#{operator}, #{allAmount}, #{createDate}, #{payerId}) ;
+    </insert>
+
+    <insert id="saveBatchSheetContent" useGeneratedKeys="true" keyProperty="id">
+        insert into pay_sheet_content (pay_sheet_id, entry_name, remark, transfer_amount) values
+        <foreach collection="list" item="item" index="index" separator=",">
+            (#{item.paySheetId},#{item.entryName},#{item.remark},#{item.transferAmount})
+        </foreach>
+    </insert>
+
+    <select id="findAllSheetByState" resultType="com.nju.edu.erp.model.po.pay.PaySheetPO">
+        select * from pay_sheet where state=#{state}
+    </select>
+
+    <select id="findAllSheetByDate" resultType="com.nju.edu.erp.model.po.pay.PaySheetPO">
+        select * from pay_sheet where state = '审批完成' and create_date between #{fromDate} and #{toDate}
+    </select>
+
+    <update id="updateSheetState">
+        update pay_sheet
+        set state = #{state}
+        where id = #{sheetId}
+    </update>
+
+    <update id="updateSheetStateOnPrev">
+        update pay_sheet
+        set state = #{state}
+        where id = #{sheetId} and state = #{prev}
+    </update>
+
+    <select id="findAllSheet" resultType="com.nju.edu.erp.model.po.pay.PaySheetPO">
+        select * from pay_sheet;
+    </select>
+
+    <select id="findContentBySheetId" resultType="com.nju.edu.erp.model.po.pay.PaySheetContentPO">
+        select * from pay_sheet_content where pay_sheet_id = #{sheetId};
+    </select>
+
+    <select id="findSheetById" resultType="com.nju.edu.erp.model.po.pay.PaySheetPO">
+        select * from pay_sheet where id = #{id};
+    </select>
+
+    <select id="getLatestSheet" resultType="com.nju.edu.erp.model.po.pay.PaySheetPO">
+        select * from pay_sheet order by id desc limit 0,1 ;
+    </select>
+
+</mapper>

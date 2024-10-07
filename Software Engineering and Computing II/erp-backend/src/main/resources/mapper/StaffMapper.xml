@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.StaffDao">
+
+    <insert id = "createStaff" parameterType="StaffPO" useGeneratedKeys="true" keyProperty="id">
+        insert into staff ( `name`, `gender`,`birthday`,`phone_num`,`post_id`,`card_account_id`)
+        values (#{name}, #{gender}, #{birthday},#{phoneNum},#{postId},#{cardAccountId});
+    </insert>
+
+
+    <select id = "findByStaffName" resultMap="StaffPO">
+        select * from user where `name` = #{staffName}
+    </select>
+
+
+    <select id="findByStaffId" resultMap="StaffPO">
+        select * from
+        staff where id=#{id};
+    </select>
+
+    <select id="queryAll" resultMap="StaffPO">
+        select * from staff;
+    </select>
+
+    <select id="queryAllExceptGM" resultMap="StaffPO">
+        select *
+        from staff
+        join post
+        on staff.post_id = post.id
+        where post_name != 'GM';
+    </select>
+
+    <select id="findPost" resultType="java.lang.String">
+        select post_name
+        from staff
+        join post p on staff.post_id = p.id where staff.id=#{id};
+    </select>
+
+    <select id="findBasicSalary" resultType="java.lang.Integer">
+        select basic_salary
+        from staff
+        join post p on p.id = staff.post_id where staff.id=#{id};
+    </select>
+
+    <select id="findCalSalaryMethod" resultType="java.lang.String">
+        select cal_salary_method
+        from staff
+        join post p on p.id = staff.post_id where staff.id=#{id};
+    </select>
+
+    <select id="checkIfAnEmptyPost" resultType="java.lang.Integer">
+        select count(*)
+        from staff where post_id=#{postId};
+    </select>
+
+    <update id="updateStaff" parameterType="StaffPO">
+        update staff
+        <set>
+            <if test = "name != null">name = #{name}, </if>
+            <if test = "gender != null">gender = #{gender}, </if>
+            <if test = "birthday != null">birthday = #{birthday}, </if>
+            <if test = "phoneNum != null">`phone_num` = #{phoneNum}, </if>
+            <if test = "postId != null">`post_id` = #{postId}, </if>
+            <if test = "cardAccountId != null">`card_account_id` = #{cardAccountId}, </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <delete id="deleteStaff">
+        delete from staff where id=#{staffId};
+    </delete>
+
+    <select id="getMaxId" resultType="java.lang.Integer">
+        select max(id)
+        from staff;
+    </select>
+
+
+    <resultMap id="StaffPO" type="com.nju.edu.erp.model.po.StaffPO">
+        <id column="id" property="id"></id>
+        <result column="name" property="name"></result>
+        <result column="gender" property="gender"></result>
+        <result column="birthday" property="birthday"></result>
+        <result column="phone_num" property="phoneNum"></result>
+        <result column="post_id" property="postId"></result>
+        <result column="card_account_id" property="cardAccountId"></result>
+    </resultMap>
+</mapper>

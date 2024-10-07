@@ -1,0 +1,43 @@
+<!--pages/user/user.wxml-->
+<view wx:if="{{isHide}}">
+ <view wx:if="{{canIUse}}" >
+  <view class='header'>
+   <image src='/images/test/login.jpg'></image>
+  </view>
+ 
+  <view class='content'>
+   <view>申请获取以下权限</view>
+   <text>获得你的公开信息(昵称，头像等)</text>
+  </view>
+ 
+  <button class='bottom' type='primary' open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="bindGetUserInfo">
+   授权登录
+  </button>
+ </view>
+ <view wx:else>请升级微信版本</view>
+</view>
+ 
+
+<view wx:else>
+<view class="index-title">
+welcome
+</view>
+
+<view class="index-list">
+    <navigator class="list-item" url="/pages/createPro/index">
+    创建项目
+    </navigator>
+
+    <navigator class="list-item" url="/pages/proExchange/index">
+    切换项目
+    </navigator>  
+
+    <navigator class="list-item" url="/pages/joinPro/index">
+    加入项目
+    </navigator>    
+    
+    <navigator class="list-item" url="/pages/guide/index">
+    使用说明
+    </navigator>
+</view>
+</view>

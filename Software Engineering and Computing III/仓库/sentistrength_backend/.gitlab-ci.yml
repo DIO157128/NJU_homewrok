@@ -1,0 +1,61 @@
+stages:
+  - build
+  - test
+  - deploy
+
+build-job_for_develop:
+  stage: build
+  only:
+    - iteration2_dev
+  tags:
+    - shell_backend
+  script:
+    - mvn install
+    - mvn  package -DskipTests=true
+    - sudo cp target/*.jar /home/sentiStrength_backend/dev/
+
+build-job_for_master:
+  stage: build
+  only:
+    - main
+  tags:
+    - shell_backend
+  script:
+    - mvn  package -DskipTests=true
+    - sudo cp target/*.jar /home/sentiStrength_backend/prod/
+
+
+# 代码要经过测试
+test-job:
+  stage: test
+  tags :
+    - shell_backend
+  script:
+    - mvn  test
+
+
+deploy-job_for_master:
+  stage: deploy
+  tags :
+    - shell_backend
+  #  environment: production
+  when: manual
+  only:
+    - main
+  script:
+    - echo "deploy"
+    - cd /home/sentiStrength_backend/prod/
+    - sudo sh prod.sh stop
+    - sudo sh prod.sh start
+
+deploy-job_for_develop:
+  stage: deploy
+  tags :
+    - shell_backend
+  only:
+    - iteration2_dev
+  script:
+    - echo "deploy"
+    - cd /home/sentiStrength_backend/dev/
+    - sudo sh dev.sh stop
+    - sudo sh dev.sh start

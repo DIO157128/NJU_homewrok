@@ -1,0 +1,16 @@
+[INFO] 24_senti_main.py:227 > -------------------------
+[INFO] 24_senti_main.py:228 > recall_of_positive: 0.7611111111111111
+[INFO] 24_senti_main.py:229 > precision_of_positive: 0.8303030303030303
+[INFO] 24_senti_main.py:230 > f1score_of_positive: 0.7942028985507247
+[INFO] 24_senti_main.py:231 > -------------------------
+[INFO] 24_senti_main.py:227 > -------------------------
+[INFO] 24_senti_main.py:228 > recall_of_neutral: 0.8326771653543307
+[INFO] 24_senti_main.py:229 > precision_of_neutral: 0.8119001919385797
+[INFO] 24_senti_main.py:230 > f1score_of_neutral: 0.8221574344023324
+[INFO] 24_senti_main.py:231 > -------------------------
+[INFO] 24_senti_main.py:227 > -------------------------
+[INFO] 24_senti_main.py:228 > recall_of_negative: 0.9323144104803494
+[INFO] 24_senti_main.py:229 > precision_of_negative: 0.8989473684210526
+[INFO] 24_senti_main.py:230 > f1score_of_negative: 0.915326902465166
+[INFO] 24_senti_main.py:231 > -------------------------
+[INFO] 24_senti_main.py:234 > Accuracy:0.8476621417797888

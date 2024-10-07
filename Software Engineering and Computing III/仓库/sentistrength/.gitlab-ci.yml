@@ -1,0 +1,119 @@
+#4.5日完善
+stages:
+  - prepare_release
+  - release
+  - build
+  - test
+  - deploy
+
+prepare_job:
+  stage: prepare_release
+  tags :
+    - docker_for_release
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  script:
+    - echo "EXTRA_DESCRIPTION=a new release" >> variables.env
+    - echo "TAG=$(git tag --list | tail -n1)" >> variables.env
+  artifacts:
+    reports:
+      dotenv: variables.env
+
+release_job:
+  stage: release
+  tags :
+    - docker_for_release
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  needs:
+    - job: prepare_job
+      artifacts: true
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  script:
+    - echo "running release_job for $TAG"
+  release:
+    name: 'Release $TAG'
+    description: 'Created using the release-cli $EXTRA_DESCRIPTION'  # $EXTRA_DESCRIPTION and the $TAG
+    tag_name: '$TAG'                                              # variables must be defined elsewhere
+    ref: '$CI_COMMIT_SHA'
+    #设置jar包的访问连接
+    assets:
+      links:
+        - name: 'sentiStrength-$TAG.jar'
+          url: 'http://121.41.109.201:80/24_sentiStrength_jar/$TAG'
+
+build-job_for_develop:
+  stage: build
+  only:
+    - iteration2_develop
+  tags :
+    - shell_for_build
+  script:
+    #开发分支只需要完成打包为部署准备jar包即可
+    - mvn  package -DskipTests=true
+
+build-job_for_master:
+  stage: build
+  only:
+    - master
+  tags :
+    - shell_for_build
+  needs:
+    - job: prepare_job
+      artifacts: true
+  script:
+    - mvn  package -DskipTests=true
+    - mkdir /home/sentiStrength_jar/$TAG
+    - cp target/*.jar /home/sentiStrength_jar/$TAG
+
+
+# 代码要经过测试
+test-job:
+  stage: test
+  tags :
+    - shell_for_build
+  script:
+    - mvn  test
+
+# 后续可以添加代码扫描等环节
+
+
+# 将打包好的jar包上传到repo.nju.edu.cn
+# 请注意！当主分支提交时，发布的jar包应当是release版本，这是不应该带时间戳的！需要在提交时将pom.xml的version改成不带snapshot的对应版本
+# 注意： 合并到主分支需要手动触发！
+deploy-job_for_master:
+  stage: deploy
+  tags :
+    - shell_for_build
+  #  environment: production
+  when: manual
+  only:
+    - master
+  script:
+    - echo "deploy"
+    - mvn deploy
+
+
+# 该环节部署到repo.nju.edu.cn的jar包仅供开发使用，并且该阶段上传的jar包是带有时间戳的，因此每当上传一个开发snapshot，在后端springboot的项目中都应该更新最新的依赖
+deploy-job_for_develop:
+  stage: deploy
+  tags :
+    - shell_for_build
+  only:
+    - iteration2_develop
+  script:
+    - echo "deploy"
+    - mvn deploy
+
+
+
+
+
+
+
+
+

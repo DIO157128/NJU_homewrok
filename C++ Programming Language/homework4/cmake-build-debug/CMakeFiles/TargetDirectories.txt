@@ -1,0 +1,3 @@
+C:/Users/dell/Desktop/C++/homework4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dell/Desktop/C++/homework4/cmake-build-debug/CMakeFiles/homework4.dir
+C:/Users/dell/Desktop/C++/homework4/cmake-build-debug/CMakeFiles/edit_cache.dir

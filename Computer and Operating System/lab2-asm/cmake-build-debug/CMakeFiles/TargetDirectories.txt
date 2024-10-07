@@ -1,0 +1,3 @@
+/mnt/hgfs/OSshare/OS/lab2-asm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/OSshare/OS/lab2-asm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/hgfs/OSshare/OS/lab2-asm/cmake-build-debug/CMakeFiles/lab2_asm.dir

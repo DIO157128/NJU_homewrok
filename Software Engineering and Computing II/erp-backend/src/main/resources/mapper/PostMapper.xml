@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nju.edu.erp.dao.PostDao">
+
+    <insert id="addPost" parameterType="PostPO" useGeneratedKeys="true" keyProperty="id">
+        insert into post(post_name,basic_salary,post_salary,level,cal_salary_method,pay_salary_method,tax_deduction_remark)
+        values (#{postName},#{basicSalary},#{postSalary},#{level},#{calSalaryMethod},#{paySalaryMethod},#{taxDeductionRemark})
+    </insert>
+
+    <select id="findIfHasPost" resultType="java.lang.Integer">
+        select count(*)
+        from post
+        where id=#{postId};
+    </select>
+
+    <select id="queryAllPost" resultMap="PostPO">
+        select * from post;
+    </select>
+
+
+    <select id="findByPostId" resultMap="PostPO">
+        select * from post where id=#{postId};
+    </select>
+
+    <delete id="deletePost">
+        delete from post where id=#{postId};
+    </delete>
+
+    <update id="updatePost" parameterType="PostPO">
+        update post
+        <set>
+            <if test = "postName != null">post_name = #{postName}, </if>
+            <if test = "basicSalary != null">basic_salary = #{basicSalary}, </if>
+            <if test = "postSalary != null">post_salary = #{postSalary}, </if>
+            <if test = "level != null">`level` = #{level}, </if>
+            <if test = "calSalaryMethod != null">`cal_salary_method` = #{calSalaryMethod}, </if>
+            <if test = "paySalaryMethod != null">`pay_salary_method` = #{paySalaryMethod}, </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <insert id="addCompanyAccount" parameterType="CompanyAccountPO" useGeneratedKeys="true" keyProperty="id">
+        insert into company_account (id, name, balance)
+        values (#{id}, #{name}, #{balance})
+    </insert>
+
+    <select id="getMaxId" resultType="java.lang.Integer">
+        select max(id)
+        from post;
+    </select>
+
+
+    <resultMap id="PostPO" type="com.nju.edu.erp.model.po.PostPO">
+        <id column="id" property="id"></id>
+        <result column="post_name" property="postName"></result>
+        <result column="basic_salary" property="basicSalary"></result>
+        <result column="post_salary" property="postSalary"></result>
+        <result column="level" property="level"></result>
+        <result column="cal_salary_method" property="calSalaryMethod"></result>
+        <result column="pay_salary_method" property="paySalaryMethod"></result>
+        <result column="tax_deduction_method" property="taxDeductionMethod"></result>
+    </resultMap>
+</mapper>

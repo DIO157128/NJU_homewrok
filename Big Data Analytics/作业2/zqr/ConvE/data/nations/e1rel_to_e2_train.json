@@ -1,0 +1,909 @@
+{"e1": "netherlands", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "india uk netherlands usa brazil", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt uk ussr netherlands burma cuba", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relbooktranslations_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt jordan netherlands burma brazil israel china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "indonesia ussr india", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "uk china usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "india uk ussr netherlands israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt brazil ussr usa burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "poland india egypt uk burma jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "netherlands usa uk", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "indonesia india ussr usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "poland india egypt brazil ussr netherlands burma cuba israel", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "india indonesia egypt jordan uk ussr netherlands burma usa cuba china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt brazil usa cuba israel china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "poland brazil uk ussr netherlands cuba china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "poland indonesia india uk netherlands usa brazil israel", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "cuba jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "india israel burma egypt", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "indonesia india jordan egypt", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "poland india egypt usa israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "poland uk ussr usa brazil china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt burma israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "china poland india indonesia uk ussr netherlands burma jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "poland brazil uk ussr usa cuba china", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "india indonesia jordan burma", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt ussr netherlands burma israel jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "india israel netherlands burma brazil cuba", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "economicaid", "rel_eval": "None", "e2_multi1": "india egypt brazil israel jordan", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "booktranslations_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt netherlands burma brazil israel china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "india egypt cuba ussr netherlands burma usa brazil israel", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "poland usa netherlands burma brazil israel china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relbooktranslations_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt jordan ussr netherlands brazil israel china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "poland india indonesia brazil uk ussr netherlands cuba israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk cuba ussr usa brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "poland egypt jordan usa cuba china", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr usa netherlands brazil china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "indonesia india israel jordan uk ussr usa netherlands brazil cuba china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "poland ussr egypt", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "indonesia india uk ussr usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "ussr china egypt", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk ussr netherlands cuba israel", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "india ussr usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "poland india egypt ussr netherlands usa burma brazil israel jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "india egypt brazil uk ussr burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "india indonesia egypt israel jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "poland uk ussr usa netherlands cuba", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "china india indonesia egypt burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland uk ussr netherlands burma cuba", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt israel usa burma brazil cuba china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "india indonesia egypt burma jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "israel jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland india indonesia usa netherlands brazil china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt uk netherlands", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland india ussr netherlands israel", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "poland india uk netherlands brazil cuba jordan", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "netherlands usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt uk netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relstudents_reverse", "rel_eval": "None", "e2_multi1": "india usa egypt", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "india indonesia egypt uk netherlands usa israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt cuba ussr usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "netherlands china usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "cuba indonesia burma egypt", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "brazil uk ussr netherlands usa cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "poland ussr china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "cuba ussr china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "aidenemy", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "aidenemy_reverse", "rel_eval": "None", "e2_multi1": "ussr china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland india egypt ussr usa netherlands", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "eemigrants_reverse", "rel_eval": "None", "e2_multi1": "poland china india uk netherlands brazil cuba jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "indonesia india uk netherlands usa brazil", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk cuba ussr brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "poland ussr usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "uk indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "unoffialacts", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "unoffialacts_reverse", "rel_eval": "None", "e2_multi1": "indonesia ussr", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia egypt uk usa netherlands burma brazil israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "releconomicaid", "rel_eval": "None", "e2_multi1": "poland india", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "india egypt netherlands usa brazil israel", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland china indonesia india uk netherlands burma usa cuba jordan", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "netherlands usa uk", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt netherlands israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "cuba poland", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "uk brazil netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "india uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "poland indonesia uk netherlands usa brazil", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "india egypt uk usa brazil", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands usa burma brazil israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt israel jordan uk ussr usa burma brazil cuba china", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "india china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "indonesia ussr burma", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "india egypt israel uk netherlands brazil cuba", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia egypt usa burma netherlands cuba", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "uk china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia ussr usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "expeldiplomats", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "expeldiplomats_reverse", "rel_eval": "None", "e2_multi1": "poland ussr", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "poland india uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "poland china india indonesia egypt brazil ussr usa burma netherlands cuba israel jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "students_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "cuba ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "china indonesia egypt uk ussr netherlands burma israel jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland egypt ussr brazil cuba china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "poland india indonesia ussr cuba china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "uk china usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "egypt brazil uk ussr netherlands cuba jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland egypt brazil ussr usa cuba china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "poland india egypt brazil uk ussr burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "poland china usa uk", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands usa cuba", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt israel uk ussr usa brazil cuba", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "india egypt ussr netherlands usa israel jordan", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "poland egypt brazil ussr usa cuba israel", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt uk cuba netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "india egypt ussr netherlands usa brazil israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "egypt uk usa brazil israel", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "releconomicaid", "rel_eval": "None", "e2_multi1": "indonesia egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr netherlands usa china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "india brazil usa netherlands cuba china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk ussr cuba", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt ussr cuba china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "poland india uk netherlands usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "uk india usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "china burma egypt", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk usa israel netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "netherlands israel usa uk", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt uk ussr cuba jordan", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "egypt uk ussr netherlands cuba china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland india usa egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland india ussr usa netherlands brazil cuba jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "india jordan burma egypt", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland india uk netherlands usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt brazil jordan ussr netherlands cuba israel china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "jordan egypt", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "poland china india brazil ussr usa burma netherlands cuba jordan", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "china poland indonesia egypt brazil cuba jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland india jordan uk usa netherlands cuba china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt uk brazil cuba", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland india egypt uk ussr usa netherlands cuba china", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland egypt netherlands brazil china", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "india uk ussr usa burma", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia uk ussr usa burma brazil cuba", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "indonesia india egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "poland brazil uk ussr netherlands usa cuba china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt brazil ussr usa cuba israel china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "indonesia israel jordan burma", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "india israel burma egypt", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relexportbooks", "rel_eval": "None", "e2_multi1": "india egypt usa netherlands burma brazil china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "poland egypt ussr netherlands brazil china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "uk cuba poland netherlands", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "uk netherlands usa brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt brazil usa netherlands cuba", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "india ussr netherlands brazil israel jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "brazil usa uk netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "poland ussr cuba china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "releconomicaid", "rel_eval": "None", "e2_multi1": "india jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "uk ussr usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk usa netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "india egypt brazil uk ussr netherlands cuba israel", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "uk china usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "indonesia israel jordan burma", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "indonesia india egypt burma israel", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland india uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "uk brazil poland", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "india uk ussr usa brazil", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india brazil netherlands burma cuba", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "netherlands usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt uk cuba ussr brazil israel jordan", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland egypt ussr netherlands israel china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia brazil uk ussr usa netherlands burma cuba jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "militaryactions", "rel_eval": "None", "e2_multi1": "india usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "militaryactions_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "brazil usa netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "uk brazil usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "exportbooks", "rel_eval": "None", "e2_multi1": "india uk netherlands brazil china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "poland indonesia uk ussr usa burma brazil cuba", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "uk india ussr usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "booktranslations_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt ussr netherlands burma brazil israel china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "poland netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "poland uk netherlands usa israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "boycottembargo", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "boycottembargo_reverse", "rel_eval": "None", "e2_multi1": "cuba ussr", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "indonesia egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "poland brazil uk usa cuba china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr usa netherlands brazil", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk usa netherlands brazil", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "india brazil uk ussr usa cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "poland india uk ussr usa brazil", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "india uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt ussr brazil cuba jordan", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "israel china usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "ussr jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland china indonesia egypt uk ussr usa burma brazil jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk ussr netherlands usa brazil israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "china poland indonesia egypt brazil ussr usa burma cuba jordan", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "uk india netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "poland india ussr netherlands burma cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "brazil usa netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "china poland indonesia india egypt ussr cuba israel jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "poland china uk ussr netherlands cuba jordan", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt usa burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "india uk cuba ussr brazil israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "china poland egypt brazil uk ussr usa cuba jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "egypt uk usa netherlands china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt uk netherlands burma cuba china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland egypt jordan ussr burma brazil cuba china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "india egypt uk ussr china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "indonesia egypt brazil uk burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland uk ussr netherlands usa israel", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "cuba poland", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "tourism3", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "israel usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "brazil indonesia uk", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "india indonesia burma israel jordan", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "poland uk ussr netherlands usa cuba china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "india brazil uk ussr burma cuba israel china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland uk ussr usa netherlands brazil cuba", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "cuba ussr usa india", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "uk jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "poland egypt uk usa netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt usa brazil israel", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "indonesia india egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "poland uk ussr usa netherlands china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia uk usa netherlands", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "indonesia india brazil uk usa netherlands cuba", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "poland india ussr usa china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "india egypt uk usa burma cuba israel china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "poland brazil uk ussr usa netherlands cuba jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "poland ussr cuba china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt israel usa netherlands brazil cuba china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "india uk netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt brazil jordan ussr usa cuba china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "releconomicaid", "rel_eval": "None", "e2_multi1": "india egypt brazil israel jordan", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "india egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland india netherlands brazil israel china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "india uk ussr netherlands usa israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "poland china indonesia india egypt uk usa burma brazil cuba jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "reltourism", "rel_eval": "None", "e2_multi1": "uk ussr netherlands israel jordan", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "netherlands usa uk", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "cuba ussr poland", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "cuba china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "poland indonesia india uk burma brazil cuba", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "india indonesia uk ussr usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk india poland ussr", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands burma cuba israel", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "uk brazil netherlands usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "poland china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "india egypt ussr burma brazil", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "india usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland india egypt uk ussr cuba china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "india egypt brazil uk ussr netherlands cuba china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland india uk usa netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india uk burma brazil cuba china", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt ussr", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "jordan burma", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "uk india israel usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "cuba poland burma", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia egypt brazil ussr cuba china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "poland usa netherlands uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "india uk ussr usa israel", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "indonesia india uk ussr usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland egypt brazil usa netherlands cuba china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "indonesia india egypt uk ussr netherlands burma usa brazil israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia egypt brazil burma cuba israel jordan", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt ussr brazil cuba china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "reltourism", "rel_eval": "None", "e2_multi1": "india egypt ussr usa brazil israel jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "uk ussr", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland uk ussr netherlands brazil china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "uk brazil netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "reltourism", "rel_eval": "None", "e2_multi1": "poland india", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "indonesia india egypt burma israel jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland uk ussr usa cuba", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "israel usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "india uk netherlands usa cuba", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "uk brazil netherlands usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "poland cuba usa egypt", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland ussr netherlands burma israel jordan", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "poland india uk netherlands cuba israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "unoffialacts", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "unoffialacts_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "brazil usa netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india ussr netherlands burma usa cuba", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "india egypt brazil uk ussr usa netherlands cuba israel china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "reltourism", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "uk jordan", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "poland ussr cuba china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "tourism3", "rel_eval": "None", "e2_multi1": "netherlands ussr israel usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india uk cuba usa brazil israel china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "tourism3", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland india egypt jordan ussr usa netherlands brazil china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk ussr burma brazil jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "india egypt uk ussr netherlands brazil cuba", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "uk israel usa netherlands", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "poland brazil uk ussr netherlands usa cuba china", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland india egypt uk usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "china brazil ussr netherlands usa cuba jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "poland india brazil uk ussr netherlands burma cuba", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "netherlands usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk netherlands usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "china poland india indonesia egypt uk ussr netherlands usa jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland ussr indonesia egypt", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "emigrants3_reverse", "rel_eval": "None", "e2_multi1": "poland uk cuba netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "poland egypt uk netherlands usa brazil cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "uk ussr china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "poland india egypt uk usa brazil israel", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "uk ussr china netherlands", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt uk usa netherlands brazil cuba", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "brazil indonesia burma", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "poland ussr", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "india indonesia usa egypt", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr netherlands cuba israel", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "indonesia ussr burma cuba israel china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "poland india ussr usa cuba", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "uk brazil egypt", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relstudents_reverse", "rel_eval": "None", "e2_multi1": "india egypt netherlands brazil israel jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk ussr israel poland", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "ussr china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "india egypt ussr netherlands brazil israel jordan", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "india egypt uk usa brazil", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "usa egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relstudents_reverse", "rel_eval": "None", "e2_multi1": "indonesia jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland china ussr brazil jordan", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands usa brazil israel", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "cuba indonesia china jordan", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "netherlands china usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "brazil china usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "brazil india israel usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland china egypt brazil ussr usa cuba israel jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "uk israel netherlands", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "india indonesia uk ussr china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "indonesia burma egypt", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "cuba china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "poland ussr cuba", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "cuba india china usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "indonesia usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "poland uk ussr usa netherlands brazil cuba china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "china india indonesia egypt ussr usa burma brazil israel jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "poland egypt uk netherlands cuba", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland india indonesia egypt ussr netherlands usa burma brazil israel china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relexportbooks", "rel_eval": "None", "e2_multi1": "uk india brazil netherlands", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "india egypt uk ussr netherlands usa brazil", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia egypt israel uk ussr netherlands usa burma brazil cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr usa netherlands brazil china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "india indonesia ussr usa brazil", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "poland netherlands", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "cuba usa china netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "cuba ussr poland china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "poland india egypt brazil uk ussr cuba", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia india uk usa burma brazil cuba", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "indonesia egypt uk usa netherlands israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "poland usa netherlands uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "uk ussr china netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt ussr netherlands usa cuba israel jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "poland india uk ussr usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland ussr usa netherlands cuba china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "poland ussr israel uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk india israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "poland india uk usa netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "cuba ussr netherlands", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "booktranslations_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia ussr", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "ussr usa burma", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "poland ussr china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "indonesia india egypt uk netherlands burma brazil israel jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt israel ussr brazil cuba china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "india egypt uk usa netherlands brazil cuba china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "india uk usa netherlands israel", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt ussr netherlands burma brazil cuba china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "duration", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "duration_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "egypt ussr netherlands usa brazil china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "exportbooks", "rel_eval": "None", "e2_multi1": "india egypt usa burma brazil", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "duration", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "duration_reverse", "rel_eval": "None", "e2_multi1": "indonesia india usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "uk ussr usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt burma cuba", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "uk india usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "india indonesia egypt usa netherlands brazil israel jordan", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "indonesia india egypt israel jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "students_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk netherlands brazil israel jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "boycottembargo_reverse", "rel_eval": "None", "e2_multi1": "indonesia ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "uk india china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "economicaid", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "poland cuba", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "embassy_reverse", "rel_eval": "None", "e2_multi1": "uk ussr netherlands usa cuba", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk ussr usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "india uk usa netherlands israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "attackembassy", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "attackembassy_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "independence_reverse", "rel_eval": "None", "e2_multi1": "poland egypt brazil uk netherlands cuba", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "israel netherlands", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "cuba ussr china poland", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "brazil usa netherlands uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "indonesia india uk usa cuba", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "netherlands ussr usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia egypt ussr cuba china", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "emigrants3_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "india israel jordan", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "poland cuba china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "timesinceally_reverse", "rel_eval": "None", "e2_multi1": "poland cuba uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "netherlands brazil usa uk", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "israel netherlands", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "india uk netherlands usa cuba israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "poland uk usa netherlands china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "brazil ussr", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relintergovorgs", "rel_eval": "None", "e2_multi1": "poland india egypt uk usa netherlands brazil", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "cuba india netherlands uk", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "poland india indonesia brazil uk ussr netherlands cuba china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt ussr burma brazil china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "china india ussr usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "cuba ussr poland china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "indonesia india ussr uk", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "poland indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "india egypt uk usa netherlands brazil", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "uk indonesia china ussr", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "burma", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "uk india israel poland", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "egypt ussr usa netherlands brazil cuba china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "usa egypt", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "intergovorgs3", "rel_eval": "None", "e2_multi1": "india egypt uk usa netherlands brazil", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "brazil india netherlands uk", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "dependent", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "dependent_reverse", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "ngo", "rel_eval": "None", "e2_multi1": "brazil usa netherlands", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "uk brazil usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk ussr netherlands cuba", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "violentactions", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "violentactions_reverse", "rel_eval": "None", "e2_multi1": "india indonesia usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "burma", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "aidenemy", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "ngoorgs3_reverse", "rel_eval": "None", "e2_multi1": "indonesia ussr jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "uk india usa egypt", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "brazil israel poland uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "uk china usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "poland uk ussr netherlands israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "brazil egypt", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr brazil", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "dependent", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "dependent_reverse", "rel_eval": "None", "e2_multi1": "india jordan egypt", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk ussr poland", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk ussr netherlands usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "poland usa uk netherlands", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "poland india egypt uk netherlands brazil israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "uk israel usa netherlands", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "poland egypt uk ussr netherlands", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "poland ussr cuba china", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "india egypt uk brazil israel", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "india indonesia egypt ussr usa burma cuba israel china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt cuba ussr netherlands usa burma brazil israel", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "indonesia china ussr egypt", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "cuba poland", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "india uk ussr usa netherlands brazil", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "poland indonesia india egypt uk ussr usa netherlands", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "independence", "rel_eval": "None", "e2_multi1": "egypt uk ussr usa netherlands cuba china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "jordan usa burma egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "duration", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "duration_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "india ussr poland uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "dependent", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "brazil indonesia israel uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "indonesia usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "egypt uk usa brazil israel", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "poland ussr china", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "duration", "rel_eval": "None", "e2_multi1": "uk china", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "duration_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk ussr usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "booktranslations_reverse", "rel_eval": "None", "e2_multi1": "poland usa netherlands uk", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk ussr israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk ussr usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "cuba indonesia burma egypt", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "poland indonesia egypt burma cuba", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "indonesia india jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "indonesia israel jordan burma", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "poland india egypt brazil uk ussr cuba israel", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "exports3_reverse", "rel_eval": "None", "e2_multi1": "jordan egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "cuba egypt", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "brazil usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "violentactions", "rel_eval": "None", "e2_multi1": "india usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "violentactions_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "cuba egypt", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "commonbloc1_reverse", "rel_eval": "None", "e2_multi1": "indonesia india israel jordan", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "ussr israel", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relbooktranslations_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relemigrants_reverse", "rel_eval": "None", "e2_multi1": "poland uk netherlands cuba israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "violentactions", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "china burma", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "poland indonesia uk ussr netherlands israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "duration", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "duration_reverse", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "burma", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "poland india egypt ussr usa netherlands israel jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "uk indonesia brazil usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "weightedunvote", "rel_eval": "None", "e2_multi1": "netherlands usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "uk brazil netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "china burma egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt jordan cuba israel china", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk india netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "brazil india israel indonesia", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "reldiplomacy", "rel_eval": "None", "e2_multi1": "uk ussr egypt", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "poland india israel", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "poland ussr china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "timesinceally", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "ngo_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "uk india poland netherlands", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "dependent", "rel_eval": "None", "e2_multi1": "netherlands", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "dependent_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "brazil usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "uk india netherlands", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "militaryactions", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "militaryactions_reverse", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "poland china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "commonbloc0", "rel_eval": "None", "e2_multi1": "poland ussr china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "commonbloc0_reverse", "rel_eval": "None", "e2_multi1": "brazil usa uk", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "uk brazil netherlands", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "brazil netherlands uk", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "cuba indonesia china ussr", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "india indonesia uk ussr brazil cuba china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "israel china usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "india jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "netherlands", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk india israel netherlands", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "indonesia jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "poland ussr cuba", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "conferences_reverse", "rel_eval": "None", "e2_multi1": "india ussr burma", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "conferences", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "tourism3", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "tourism3", "rel_eval": "None", "e2_multi1": "israel usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "reldiplomacy_reverse", "rel_eval": "None", "e2_multi1": "indonesia egypt", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland jordan", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "commonbloc2", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "ngoorgs3", "rel_eval": "None", "e2_multi1": "brazil usa netherlands", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "reltourism", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "netherlands ussr china usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "violentactions", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "violentactions_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "poland uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "booktranslations_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "brazil netherlands uk", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "booktranslations_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "boycottembargo", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "indonesia israel jordan", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "cuba egypt", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk usa netherlands", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "booktranslations", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "brazil usa uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "economicaid", "rel_eval": "None", "e2_multi1": "cuba india poland", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "students_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "unoffialacts_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "tourism3", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "poland ussr usa netherlands china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relexportbooks", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "warning", "rel_eval": "None", "e2_multi1": "india usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "warning_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "uk china usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "india uk usa brazil israel", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "violentactions", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "exportbooks", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "students_reverse", "rel_eval": "None", "e2_multi1": "india usa egypt", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "lostterritory", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "lostterritory_reverse", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "poland ussr china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "embassy", "rel_eval": "None", "e2_multi1": "poland india ussr netherlands", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "cuba jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "militaryactions", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "militaryactions_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "militaryactions", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "militaryactions_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "intergovorgs3_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk india israel netherlands", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "blockpositionindex", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "negativebehavior", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "economicaid", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "brazil usa netherlands", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "netherlands usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "militaryactions", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "militaryactions_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "unoffialacts", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "intergovorgs_reverse", "rel_eval": "None", "e2_multi1": "poland usa netherlands", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "commonbloc1", "rel_eval": "None", "e2_multi1": "israel jordan burma egypt", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "officialvisits", "rel_eval": "None", "e2_multi1": "ussr burma", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "burma", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "usa netherlands", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "tourism", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "boycottembargo", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "boycottembargo_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "uk usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "boycottembargo", "rel_eval": "None", "e2_multi1": "indonesia ussr egypt", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "israel", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "india israel jordan egypt", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "relbooktranslations_reverse", "rel_eval": "None", "e2_multi1": "uk israel usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "relexportbooks_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "emigrants3", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "tourism_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "accusation_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "indonesia usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "relngo", "rel_eval": "None", "e2_multi1": "netherlands", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "dependent", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "lostterritory", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "lostterritory_reverse", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk israel", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "negativebehavior_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "exportbooks_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "exports3", "rel_eval": "None", "e2_multi1": "netherlands", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "militaryalliance", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relngo_reverse", "rel_eval": "None", "e2_multi1": "jordan", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "commonbloc2_reverse", "rel_eval": "None", "e2_multi1": "brazil usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "negativecomm", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "releconomicaid_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "china usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "accusation", "rel_eval": "None", "e2_multi1": "ussr china", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "boycottembargo", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "expeldiplomats", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "expeldiplomats_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "unweightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "reltreaties_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "pprotests", "rel_eval": "None", "e2_multi1": "indonesia ussr", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "weightedunvote_reverse", "rel_eval": "None", "e2_multi1": "uk netherlands", "e2_multi2": "None"}
+{"e1": "israel", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "unweightedunvote", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "severdiplomatic", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "severdiplomatic_reverse", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "nonviolentbehavior_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "violentactions_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "tourism3_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "warning", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "warning_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "intergovorgs", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "reltourism_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "expeldiplomats", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "officialvisits_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "relstudents", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "eemigrants_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "china", "e2": "None", "rel": "negativecomm_reverse", "rel_eval": "None", "e2_multi1": "ussr usa", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "relexports", "rel_eval": "None", "e2_multi1": "egypt", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "india", "e2_multi2": "None"}
+{"e1": "jordan", "e2": "None", "rel": "reltreaties", "rel_eval": "None", "e2_multi1": "uk egypt", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "economicaid_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "warning_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "relbooktranslations", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "duration", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "nonviolentbehavior", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "poland", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "blockpositionindex_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "pprotests_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "students", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relexports_reverse", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "poland", "e2": "None", "rel": "relemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "usa", "e2": "None", "rel": "timesincewar", "rel_eval": "None", "e2_multi1": "cuba china", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "timesincewar_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "uk", "e2": "None", "rel": "expeldiplomats", "rel_eval": "None", "e2_multi1": "ussr", "e2_multi2": "None"}
+{"e1": "ussr", "e2": "None", "rel": "expeldiplomats_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "india", "e2": "None", "rel": "militaryactions_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "egypt", "e2": "None", "rel": "boycottembargo_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "relintergovorgs_reverse", "rel_eval": "None", "e2_multi1": "brazil burma", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "boycottembargo_reverse", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "indonesia", "e2": "None", "rel": "severdiplomatic", "rel_eval": "None", "e2_multi1": "cuba", "e2_multi2": "None"}
+{"e1": "cuba", "e2": "None", "rel": "severdiplomatic_reverse", "rel_eval": "None", "e2_multi1": "indonesia", "e2_multi2": "None"}
+{"e1": "brazil", "e2": "None", "rel": "treaties", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "militaryalliance_reverse", "rel_eval": "None", "e2_multi1": "uk", "e2_multi2": "None"}
+{"e1": "burma", "e2": "None", "rel": "treaties_reverse", "rel_eval": "None", "e2_multi1": "china", "e2_multi2": "None"}
+{"e1": "netherlands", "e2": "None", "rel": "eemigrants", "rel_eval": "None", "e2_multi1": "usa", "e2_multi2": "None"}

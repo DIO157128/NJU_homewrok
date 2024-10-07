@@ -1,0 +1,1187 @@
+recordId,drugName,condition,date,usefulCount,sideEffects,rating
+107140,Implanon,Birth Control,"December 15, 2012",3,Mild Side Effects,1
+117878,Simponi,Ankylosing Spondylitis,"December 11, 2016",3,Severe Side Effects,1
+169125,Vilazodone,Depression,"August 13, 2011",406,Mild Side Effects,5
+232011,Trazodone,ibromyalgia,"April 12, 2010",39,Moderate Side Effects,5
+128852,Phentermine,Weight Loss,"August 3, 2014",58,No Side Effects,5
+187375,Orencia,Rheumatoid Arthritis,"January 1, 2016",71,No Side Effects,5
+200092,Varenicline,Smoking Cessation,"September 2, 2015",36,Mild Side Effects,5
+52169,Adipex-P,Weight Loss,"January 18, 2013",96,Moderate Side Effects,5
+129037,Levonorgestrel,Birth Control,"October 30, 2015",1,Extremely Severe Side Effects,3
+70149,Dimethyl fumarate,Multiple Sclerosis,"April 24, 2016",31,No Side Effects,5
+134992,Dapsone,Acne,"June 22, 2016",10,Mild Side Effects,5
+207843,Suprep Bowel Prep Kit,Bowel Preparation,"May 27, 2015",33,Mild Side Effects,5
+71742,Tramadol,Back Pain,"December 1, 2016",20,Moderate Side Effects,5
+85467,Ethinyl estradiol / norgestimate,Abnormal Uterine Bleeding,"March 14, 2015",23,No Side Effects,3
+28230,Lexapro,Generalized Anxiety Disorde,"March 22, 2015",69,Moderate Side Effects,5
+189237,Oxycodone,Chronic Pain,"January 4, 2015",54,Moderate Side Effects,4
+38268,Albuterol,"Asthma, Maintenance","March 23, 2017",2,Mild Side Effects,1
+43980,Ethinyl estradiol / norgestimate,Birth Control,"June 28, 2012",1,Mild Side Effects,3
+121200,Venlafaxine,Major Depressive Disorde,"September 21, 2016",12,No Side Effects,1
+161927,Ciprofloxacin,Kidney Infections,"August 10, 2016",12,No Side Effects,5
+193649,Symbicort,"Asthma, Maintenance","May 7, 2011",38,No Side Effects,4
+23850,Saphris,Post Traumatic Stress Disorde,"December 13, 2014",23,No Side Effects,4
+205522,Pristiq,Depression,"February 25, 2013",103,Mild Side Effects,5
+231799,Trazodone,Insomnia,"February 12, 2014",82,No Side Effects,5
+73710,Ethinyl estradiol / norethindrone,Birth Control,"October 26, 2012",10,Severe Side Effects,4
+65201,Hydrochlorothiazide,High Blood Pressure,"December 15, 2010",130,Mild Side Effects,5
+21504,"Multivitamin, prenatal",Vitamin/Mineral Supplementation during Pregnancy/Lactation,"April 11, 2013",5,Mild Side Effects,5
+187347,Chloral hydrate,Insomnia,"June 24, 2008",18,Mild Side Effects,5
+121715,Venlafaxine,Depression,"July 29, 2014",80,Mild Side Effects,4
+176403,Lorazepam,Anxiety,"August 7, 2015",19,No Side Effects,5
+113797,Tegretol,Bipolar Disorde,"November 13, 2016",7,Moderate Side Effects,3
+208545,Amlodipine / olmesartan,High Blood Pressure,"April 19, 2010",22,Mild Side Effects,5
+50715,Gabapentin,Postherpetic Neuralgia,"June 10, 2009",68,Severe Side Effects,5
+179478,Olanzapine,Paranoid Disorde,"August 2, 2009",38,Severe Side Effects,5
+78189,Zyprexa,Depression,"January 16, 2011",100,Extremely Severe Side Effects,5
+168647,Vilazodone,Major Depressive Disorde,"February 13, 2017",23,Moderate Side Effects,5
+133255,Tri-Sprintec,Acne,"July 10, 2015",10,Mild Side Effects,3
+4484,Belviq,Weight Loss,"October 29, 2016",17,Moderate Side Effects,1
+38421,Liletta,Birth Control,"November 27, 2017",1,Severe Side Effects,3
+213194,Ticagrelor,Acute Coronary Syndrome,"October 1, 2016",2,Mild Side Effects,5
+74064,Ethinyl estradiol / norethindrone,Birth Control,"September 25, 2011",0,Mild Side Effects,4
+175989,Levaquin,Sinusitis,"March 27, 2008",21,Severe Side Effects,4
+61337,Premarin,Postmenopausal Symptoms,"December 12, 2015",19,No Side Effects,2
+74402,Ethinyl estradiol / norethindrone,Abnormal Uterine Bleeding,"June 14, 2010",5,Moderate Side Effects,5
+115091,Diazepam,Anxiety,"June 26, 2014",182,No Side Effects,5
+179703,Adapalene / benzoyl peroxide,Acne,"May 27, 2016",4,Moderate Side Effects,5
+26475,Sprintec,Birth Control,"December 3, 2014",44,No Side Effects,5
+217313,Clarithromycin,Tonsillitis/Pharyngitis,"April 16, 2016",1,Moderate Side Effects,1
+149370,Mirena,Birth Control,"August 21, 2014",29,Moderate Side Effects,5
+74271,Ethinyl estradiol / norethindrone,Postmenopausal Symptoms,"November 22, 2010",28,Moderate Side Effects,5
+94663,Abilify,Bipolar Disorde,"October 2, 2015",13,Mild Side Effects,3
+113139,Bisacodyl,Bowel Preparation,"March 28, 2016",10,Mild Side Effects,5
+217063,Oxcarbazepine,Bipolar Disorde,"September 24, 2013",196,Mild Side Effects,5
+95010,Abilify,Depression,"January 11, 2011",45,Moderate Side Effects,5
+196472,Eszopiclone,Insomnia,"March 24, 2013",32,Severe Side Effects,5
+8752,Votrient,Soft Tissue Sarcoma,"March 17, 2013",64,Moderate Side Effects,5
+106360,Implanon,Birth Control,"February 28, 2017",6,Mild Side Effects,2
+175539,Augmentin,Upper Respiratory Tract Infection,"November 30, 2015",13,No Side Effects,5
+35507,Cyclophosphamide,Multiple Sclerosis,"March 16, 2012",10,Mild Side Effects,5
+103162,Estarylla,Birth Control,"March 27, 2017",5,Moderate Side Effects,1
+56662,Elavil,Anxiety and Stress,"December 3, 2010",93,Severe Side Effects,4
+40595,Zanaflex,Muscle Spasm,"May 13, 2008",87,No Side Effects,5
+198110,Muse,Erectile Dysfunction,"May 28, 2016",34,No Side Effects,1
+140187,Asenapine,Bipolar Disorde,"June 29, 2014",37,Mild Side Effects,5
+131398,Generess Fe,Birth Control,"June 5, 2014",7,Moderate Side Effects,5
+145583,Qsymia,Obesity,"May 10, 2016",30,Mild Side Effects,5
+32221,Wellbutrin XL,Depression,"May 27, 2010",48,Extremely Severe Side Effects,4
+122866,Undecylenic acid,Tinea Pedis,"February 8, 2017",1,Mild Side Effects,1
+164618,Diclofenac,Rheumatoid Arthritis,"June 4, 2009",12,No Side Effects,5
+38641,Liletta,Birth Control,"January 3, 2017",2,Severe Side Effects,4
+140798,Escitalopram,Anxiety,"June 25, 2016",14,Severe Side Effects,5
+18564,Zolpidem,Insomnia,"February 26, 2008",217,Mild Side Effects,5
+153231,Doxycycline,Acne,"August 11, 2015",13,Mild Side Effects,5
+18130,Ethinyl estradiol / etonogestrel,Birth Control,"October 4, 2011",5,Mild Side Effects,5
+91504,Anastrozole,Breast Cance,"October 20, 2016",24,No Side Effects,2
+146865,Alprazolam,Anxiety,"December 16, 2016",7,Extremely Severe Side Effects,5
+42532,Concerta,ADHD,"November 27, 2014",45,No Side Effects,5
+25487,Finasteride,Androgenetic Alopecia,"January 20, 2016",19,Severe Side Effects,1
+220296,Amitriptyline,Cough,"May 10, 2012",86,No Side Effects,5
+138542,Phentermine,Obesity,"September 7, 2013",27,Mild Side Effects,5
+213334,Nuvigil,Shift Work Sleep Disorde,"March 11, 2010",19,Moderate Side Effects,4
+9878,Lo Loestrin Fe,Birth Control,"May 21, 2014",40,No Side Effects,5
+112982,Bisacodyl,Constipation,"March 28, 2017",11,Moderate Side Effects,3
+220019,Amitriptyline,Pain,"May 12, 2016",36,Moderate Side Effects,5
+152039,Chantix,Smoking Cessation,"May 1, 2010",6,No Side Effects,5
+106225,Oxymetazoline,Nasal Congestion,"January 29, 2017",0,Mild Side Effects,5
+205356,Pristiq,Depression,"April 11, 2016",89,Mild Side Effects,5
+147285,Alprazolam,Panic Disorde,"February 9, 2012",39,No Side Effects,5
+90136,Dronabinol,Anorexia,"July 15, 2016",5,Mild Side Effects,1
+213345,Nuvigil,Narcolepsy,"November 17, 2009",24,Severe Side Effects,5
+227650,Etonogestrel,Birth Control,"April 13, 2012",0,No Side Effects,5
+203174,Blisovi 24 Fe,Birth Control,"May 13, 2017",2,Moderate Side Effects,1
+153582,Velivet,Birth Control,"December 8, 2010",2,Mild Side Effects,2
+83502,Levocetirizine,Urticaria,"December 9, 2014",33,Mild Side Effects,5
+189686,Oxycodone,Pain,"August 6, 2009",56,Mild Side Effects,5
+224501,Levothyroxine,Underactive Thyroid,"October 27, 2014",61,Moderate Side Effects,4
+165207,Phentermine / topiramate,Obesity,"September 29, 2013",85,Mild Side Effects,5
+71717,Tramadol,Back Pain,"February 23, 2017",34,Extremely Severe Side Effects,5
+55976,Effexor,Depression,"November 15, 2008",96,Severe Side Effects,4
+70711,Abacavir / dolutegravir / lamivudine,HIV Infection,"August 31, 2016",15,Extremely Severe Side Effects,5
+77746,Moxifloxacin,Pneumonia,"January 8, 2012",3,No Side Effects,4
+203795,Suvorexant,Insomnia,"December 3, 2016",18,Mild Side Effects,1
+131149,Levonorgestrel,Abnormal Uterine Bleeding,"January 8, 2009",54,No Side Effects,5
+126459,Kineret,Schnitzler Syndrome,"September 3, 2011",5,Moderate Side Effects,5
+23719,Hycodan,Cough,"May 12, 2017",3,Extremely Severe Side Effects,5
+18949,Solifenacin,Urinary Incontinence,"March 9, 2011",33,Moderate Side Effects,2
+173330,Alli,Obesity,"February 13, 2017",26,Mild Side Effects,1
+22462,Treximet,Migraine,"July 20, 2009",5,Moderate Side Effects,5
+65357,Yasmin,Acne,"April 17, 2015",12,Mild Side Effects,5
+168607,Vilazodone,Depression,"December 16, 2016",0,Moderate Side Effects,1
+226009,Bupropion,Depression,"June 3, 2009",16,No Side Effects,3
+61080,Lovenox,"Deep Vein Thrombosis, Prophylaxis","April 29, 2014",4,No Side Effects,5
+88327,Adderall,ADHD,"September 14, 2015",41,No Side Effects,4
+105727,Methylprednisolone,"Gout, Acute","August 9, 2014",38,No Side Effects,5
+50449,Gabapentin,ibromyalgia,"April 29, 2013",75,Moderate Side Effects,3
+162044,Camila,Birth Control,"April 24, 2017",5,Severe Side Effects,4
+100881,Orlistat,Obesity,"June 6, 2014",19,No Side Effects,4
+98335,Nexplanon,Birth Control,"March 20, 2015",53,Moderate Side Effects,5
+12878,Vardenafil,Erectile Dysfunction,"June 11, 2017",9,Mild Side Effects,5
+197795,Sulfazine,Ulcerative Colitis,"August 25, 2012",32,Severe Side Effects,1
+83750,Clomiphene,Ovulation Induction,"October 15, 2008",213,Mild Side Effects,5
+153667,Doxycycline,Malaria,"November 17, 2008",15,Mild Side Effects,4
+59132,Rotigotine,Parkinson's Disease,"November 18, 2009",29,Mild Side Effects,3
+125839,Viibryd,Major Depressive Disorde,"September 21, 2016",45,Mild Side Effects,5
+5947,Edex,Erectile Dysfunction,"November 4, 2012",117,Extremely Severe Side Effects,5
+168961,Vilazodone,Anxiety,"September 12, 2012",22,Mild Side Effects,5
+128557,Phentermine,Weight Loss,"July 1, 2015",20,Moderate Side Effects,5
+128024,Phentermine,Weight Loss,"August 19, 2016",3,Mild Side Effects,3
+217852,Strattera,ADHD,"April 27, 2012",18,Extremely Severe Side Effects,2
+96080,Sertraline,Depression,"June 1, 2012",6,Mild Side Effects,5
+65251,Bisoprolol / hydrochlorothiazide,High Blood Pressure,"June 13, 2009",11,Moderate Side Effects,4
+61108,Xifaxan,Irritable Bowel Syndrome,"March 2, 2012",74,Severe Side Effects,4
+171115,Quetiapine,Insomnia,"July 30, 2009",26,Mild Side Effects,5
+77605,Cephalexin,Skin or Soft Tissue Infection,"July 18, 2013",56,Moderate Side Effects,5
+134350,Prednisone,Sinusitis,"February 7, 2015",25,Severe Side Effects,2
+22231,Baclofen,Migraine Prevention,"December 30, 2013",48,Mild Side Effects,5
+143103,Etonogestrel,Birth Control,"May 30, 2017",4,Mild Side Effects,1
+76719,Lorcaserin,Obesity,"September 21, 2016",32,Moderate Side Effects,5
+97384,Voltaren Gel,Pain,"June 26, 2016",17,No Side Effects,1
+211158,Aftera,Emergency Contraception,"April 12, 2016",9,Moderate Side Effects,5
+92956,Vortioxetine,Major Depressive Disorde,"March 27, 2017",23,No Side Effects,4
+209929,VESIcare,Overactive Bladde,"February 2, 2010",43,Severe Side Effects,1
+201170,Zoloft,Social Anxiety Disorde,"November 27, 2016",18,Extremely Severe Side Effects,4
+47788,Adapalene,Acne,"February 4, 2017",15,Moderate Side Effects,5
+180524,Fluticasone / vilanterol,Asthma,"August 2, 2016",16,Mild Side Effects,5
+141861,Escitalopram,Anxiety,"August 19, 2010",72,No Side Effects,4
+127406,Phentermine,Weight Loss,"November 25, 2017",4,Moderate Side Effects,4
+7061,Aluminum chloride hexahydrate,Hyperhidrosis,"May 20, 2013",14,Mild Side Effects,5
+103090,Zantac 150,Stomach Ulce,"January 14, 2016",4,No Side Effects,1
+72886,Ethinyl estradiol / norethindrone,Birth Control,"July 26, 2015",4,Severe Side Effects,3
+165116,Phentermine / topiramate,Weight Loss,"May 8, 2014",112,Mild Side Effects,4
+28449,Lexapro,Anxiety,"July 21, 2013",102,Severe Side Effects,4
+60894,Kombiglyze XR,"Diabetes, Type 2","January 27, 2012",47,Moderate Side Effects,5
+130016,Levonorgestrel,Emergency Contraception,"January 20, 2015",38,Mild Side Effects,5
+226644,Etonogestrel,Birth Control,"April 29, 2015",9,Moderate Side Effects,3
+183978,Hydroxyzine,Sedation,"December 11, 2017",0,No Side Effects,5
+166944,Levonorgestrel,Emergency Contraception,"July 7, 2016",6,Moderate Side Effects,4
+29679,Topiramate,Migraine Prevention,"March 24, 2012",39,Extremely Severe Side Effects,5
+219605,Microgestin Fe 1.5 / 30,Menstrual Disorders,"March 25, 2017",2,No Side Effects,1
+203783,Suvorexant,Insomnia,"February 7, 2017",12,Severe Side Effects,1
+95523,Acetaminophen / diphenhydramine,Insomnia,"July 26, 2012",20,Mild Side Effects,5
+203658,Zyban,Smoking Cessation,"February 28, 2015",65,No Side Effects,5
+10972,Terbinafine,"Onychomycosis, Toenail","July 20, 2013",56,No Side Effects,5
+37344,Vyvanse,ADHD,"July 26, 2015",56,Extremely Severe Side Effects,5
+168480,Monistat 7,Vaginal Yeast Infection,"December 23, 2015",10,Mild Side Effects,1
+158635,Methylphenidate,ADHD,"November 14, 2012",22,No Side Effects,4
+41648,Clonidine,Opiate Withdrawal,"November 26, 2016",14,Mild Side Effects,5
+190494,Butorphanol,Labor Pain,"July 29, 2016",0,Mild Side Effects,1
+28655,Lexapro,Anxiety,"April 10, 2012",12,Mild Side Effects,5
+196277,Fluvoxamine,Depression,"April 5, 2013",32,Mild Side Effects,5
+168001,Kariva,Birth Control,"April 12, 2011",8,No Side Effects,1
+24858,Deplin,lic Acid Deficiency,"September 12, 2012",176,No Side Effects,5
+25338,Golimumab,Rheumatoid Arthritis,"April 21, 2010",57,Severe Side Effects,5
+80232,Benzonatate,Cough,"January 30, 2015",65,Mild Side Effects,5
+16213,Ethinyl estradiol / norethindrone,Birth Control,"April 8, 2016",4,Mild Side Effects,3
+183024,Cymbalta,Anxiety,"August 26, 2015",68,Severe Side Effects,5
+231702,Trazodone,Depression,"February 2, 2015",127,Mild Side Effects,5
+191226,Pentasa,"Crohn's Disease, Maintenance","January 20, 2015",30,Moderate Side Effects,5
+6353,Formoterol / mometasone,moterol / mometasone),"July 12, 2011",37,Mild Side Effects,5
+166041,Levonorgestrel,Emergency Contraception,"February 17, 2017",6,No Side Effects,5
+129602,Levonorgestrel,Birth Control,"June 30, 2015",13,Severe Side Effects,4
+39626,Contrave,Obesity,"March 7, 2016",50,Mild Side Effects,4
+174086,Valium,Light Anesthesia,"October 4, 2011",18,Mild Side Effects,4
+90932,Norco,Back Pain,"August 29, 2013",53,Mild Side Effects,5
+19712,Pregabalin,ibromyalgia,"May 10, 2011",14,Mild Side Effects,2
+26926,Ultram,Pain,"June 16, 2015",73,Severe Side Effects,5
+75539,Trifluoperazine,Anxiety,"August 6, 2011",31,Moderate Side Effects,5
+181911,Inderal,Migraine Prevention,"September 27, 2015",25,No Side Effects,2
+145461,Qsymia,Weight Loss,"April 9, 2017",20,Moderate Side Effects,3
+208760,Sulfacetamide sodium / sulfur,Rosacea,"November 19, 2015",26,Extremely Severe Side Effects,5
+57108,MiraLax,Constipation,"February 24, 2014",200,Mild Side Effects,5
+208216,Oseltamivir,Influenza,"February 12, 2017",12,Moderate Side Effects,5
+153028,Doxycycline,Acne,"April 26, 2016",21,No Side Effects,5
+224958,Bupropion,Depression,"December 12, 2016",43,Mild Side Effects,5
+215973,Copper,Birth Control,"February 12, 2016",7,No Side Effects,4
+207478,Suprep Bowel Prep Kit,Bowel Preparation,"March 24, 2017",20,Mild Side Effects,4
+174873,Metamucil,Irritable Bowel Syndrome,"March 20, 2016",31,Moderate Side Effects,5
+64163,Sertraline,Depression,"January 11, 2017",25,Severe Side Effects,4
+56756,Elavil,Burning Mouth Syndrome,"December 8, 2008",142,No Side Effects,4
+51666,Azithromycin,Bronchitis,"November 19, 2013",116,Mild Side Effects,5
+175297,Hiprex,Bladder Infection,"August 16, 2013",60,Mild Side Effects,5
+41857,Clonidine,Opiate Withdrawal,"June 26, 2015",47,Moderate Side Effects,1
+99165,Lutera,Birth Control,"February 22, 2012",4,No Side Effects,3
+172039,Amitiza,"Constipation, Chronic","August 28, 2015",22,No Side Effects,1
+120339,Montelukast,Asthma,"February 20, 2017",15,Mild Side Effects,2
+220032,Amitriptyline,Pain,"January 23, 2016",85,No Side Effects,4
+137910,Boniva,Osteoporosis,"March 15, 2010",84,Extremely Severe Side Effects,1
+98188,Nexplanon,Birth Control,"July 7, 2015",5,Mild Side Effects,5
+45273,Fluoxetine,Anxiety and Stress,"October 28, 2015",35,Severe Side Effects,2
+148787,Mirena,Abnormal Uterine Bleeding,"May 5, 2016",14,No Side Effects,5
+157828,Accutane,Acne,"August 11, 2013",35,Severe Side Effects,5
+117635,Nortriptyline,Vulvodynia,"February 27, 2013",30,No Side Effects,4
+43309,Hydromorphone,Pain,"November 19, 2016",9,Extremely Severe Side Effects,2
+42938,Xulane,Birth Control,"February 26, 2015",8,No Side Effects,5
+187834,Trimipramine,Depression,"June 8, 2017",2,Moderate Side Effects,5
+42361,Atenolol,Anxiety,"March 7, 2012",155,Mild Side Effects,5
+93887,Trintellix,Major Depressive Disorde,"July 20, 2017",9,No Side Effects,4
+89431,Celexa,Depression,"September 18, 2013",109,Moderate Side Effects,5
+171986,Meloxicam,Osteoarthritis,"May 28, 2009",23,No Side Effects,4
+77379,Interferon alfa-2b,Hepatitis C,"May 5, 2016",2,Severe Side Effects,1
+162645,Terconazole,Vaginal Yeast Infection,"January 31, 2016",12,No Side Effects,4
+230938,Milnacipran,ibromyalgia,"November 9, 2011",31,Moderate Side Effects,5
+3982,Risedronate,Prevention of Osteoporosis,"September 14, 2017",7,Mild Side Effects,1
+198058,Metoprolol,Supraventricular Tachycardia,"May 16, 2011",73,Moderate Side Effects,5
+137181,Isotretinoin,Acne,"April 6, 2015",8,Mild Side Effects,1
+231053,Milnacipran,ibromyalgia,"November 28, 2009",24,No Side Effects,1
+143145,Etonogestrel,Birth Control,"May 8, 2017",5,Extremely Severe Side Effects,1
+160754,Buspirone,Anxiety,"January 25, 2011",48,Severe Side Effects,5
+61126,Xifaxan,Hepatic Encephalopathy,"January 13, 2017",6,Mild Side Effects,5
+121241,Venlafaxine,Hot Flashes,"August 22, 2016",64,Extremely Severe Side Effects,4
+72966,Ethinyl estradiol / norethindrone,Birth Control,"May 16, 2015",3,Extremely Severe Side Effects,2
+126883,Dilaudid,Pain,"September 21, 2009",12,Extremely Severe Side Effects,5
+61203,Xyzal,Allergies,"June 25, 2017",10,Mild Side Effects,3
+183603,Cymbalta,Depression,"March 1, 2010",32,Mild Side Effects,4
+109868,Nexplanon,Birth Control,"June 18, 2016",2,Mild Side Effects,5
+227499,Etonogestrel,Birth Control,"December 19, 2012",5,Severe Side Effects,1
+97647,Rocuronium,Anesthesia,"August 23, 2016",1,Mild Side Effects,5
+62869,Cozaar,High Blood Pressure,"November 29, 2010",84,Mild Side Effects,5
+1271,Sumatriptan,Cluster Headaches,"May 23, 2014",22,Moderate Side Effects,5
+157167,Differin,Acne,"July 4, 2015",16,No Side Effects,5
+102846,Aripiprazole,Bipolar Disorde,"June 22, 2012",26,Moderate Side Effects,5
+118975,Zoloft,Anxiety and Stress,"July 27, 2010",27,Moderate Side Effects,5
+160644,Buspirone,Anxiety,"August 22, 2013",25,No Side Effects,5
+185022,Harvoni,Hepatitis C,"July 30, 2017",8,Moderate Side Effects,3
+8086,Xanax,Depression,"June 5, 2008",173,Severe Side Effects,5
+177236,Duloxetine,Anxiety,"April 17, 2017",87,Mild Side Effects,5
+175669,Levaquin,Pneumonia,"August 12, 2017",2,No Side Effects,1
+24128,Tretinoin,Acne,"December 7, 2015",8,No Side Effects,5
+217145,Oxcarbazepine,Bipolar Disorde,"September 16, 2009",8,Severe Side Effects,3
+24930,Compazine,Nausea/Vomiting,"June 14, 2012",29,Mild Side Effects,1
+30857,Miconazole,Vaginal Yeast Infection,"May 25, 2017",0,No Side Effects,4
+140870,Escitalopram,Depression,"May 22, 2016",17,Mild Side Effects,1
+68119,Plan B,Emergency Contraception,"September 29, 2015",0,No Side Effects,3
+44892,Fluoxetine,Premenstrual Dysphoric Disorde,"August 29, 2017",12,Extremely Severe Side Effects,5
+16467,Ethinyl estradiol / norethindrone,Birth Control,"January 5, 2016",4,Moderate Side Effects,4
+27688,Lexapro,Major Depressive Disorde,"October 17, 2017",6,Extremely Severe Side Effects,5
+14670,Ethinyl estradiol / norethindrone,Birth Control,"November 23, 2017",2,Moderate Side Effects,1
+42735,Xulane,Birth Control,"January 27, 2017",2,Severe Side Effects,5
+154414,Tavaborole,"Onychomycosis, Toenail","March 7, 2016",15,No Side Effects,1
+5994,Flecainide,Atrial Fibrillation,"June 22, 2014",80,No Side Effects,5
+140978,Escitalopram,Anxiety,"March 23, 2016",6,No Side Effects,5
+221194,Drysol,Hyperhidrosis,"August 26, 2015",2,Mild Side Effects,5
+70355,Zofran,Nausea/Vomiting,"December 16, 2010",7,Mild Side Effects,5
+62775,Nicoderm CQ,Smoking Cessation,"December 13, 2009",48,Mild Side Effects,5
+64176,Sertraline,Depression,"March 14, 2017",28,Moderate Side Effects,1
+216140,Copper,Birth Control,"July 21, 2015",6,Moderate Side Effects,3
+211254,Pancrelipase,Chronic Pancreatitis,"January 6, 2017",4,Moderate Side Effects,5
+79748,Xarelto,Pulmonary Embolism,"February 21, 2016",17,Moderate Side Effects,5
+62564,Citalopram,Depression,"July 26, 2011",2,No Side Effects,1
+214894,Ampyra,Multiple Sclerosis,"January 28, 2015",70,No Side Effects,5
+228563,Geodon,Bipolar Disorde,"September 5, 2015",15,No Side Effects,5
+142255,Levonorgestrel,Birth Control,"November 13, 2017",3,Extremely Severe Side Effects,1
+5282,Cryselle,Birth Control,"October 6, 2016",5,Extremely Severe Side Effects,3
+128032,Phentermine,Weight Loss,"August 10, 2016",29,Mild Side Effects,4
+228643,Avonex,Multiple Sclerosis,"August 14, 2008",25,Severe Side Effects,5
+193589,Cyclobenzaprine,Muscle Spasm,"February 27, 2008",57,Moderate Side Effects,2
+119209,Tambocor,Atrial Fibrillation,"August 18, 2008",109,No Side Effects,5
+186611,Desvenlafaxine,Depression,"November 16, 2009",19,Mild Side Effects,1
+211031,Carisoprodol,Muscle Spasm,"September 30, 2013",78,Moderate Side Effects,5
+128330,Phentermine,Weight Loss,"December 10, 2015",3,Moderate Side Effects,5
+214436,Tioconazole,Vaginal Yeast Infection,"September 21, 2015",3,Severe Side Effects,1
+140653,Escitalopram,Depression,"April 9, 2017",7,Severe Side Effects,5
+144090,Etonogestrel,Birth Control,"July 3, 2016",13,No Side Effects,5
+107697,Implanon,Birth Control,"May 1, 2010",2,Mild Side Effects,4
+223598,Misoprostol,Abortion,"July 3, 2016",12,Moderate Side Effects,5
+232161,Lorazepam,Sedation,"January 11, 2017",20,No Side Effects,5
+37407,Vyvanse,ADHD,"November 22, 2014",99,Mild Side Effects,5
+66444,Valacyclovir,Cold Sores,"January 23, 2014",16,No Side Effects,5
+203973,Suvorexant,Insomnia,"May 3, 2015",20,Mild Side Effects,1
+118108,Tylox,Pain,"August 31, 2009",4,Severe Side Effects,4
+197609,Suprep Bowel Prep Kit,Bowel Preparation,"August 15, 2017",26,No Side Effects,4
+151718,Chantix,Smoking Cessation,"February 21, 2015",26,No Side Effects,5
+169150,Vilazodone,Depression,"August 30, 2011",213,No Side Effects,5
+7342,Monistat 7-Day Combination Pack,Vaginal Yeast Infection,"April 15, 2017",9,Moderate Side Effects,1
+99575,Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,"June 27, 2017",6,No Side Effects,4
+46371,Modafinil,atigue,"November 9, 2012",44,Mild Side Effects,5
+130395,Levonorgestrel,Emergency Contraception,"June 27, 2013",54,Severe Side Effects,5
+216559,Sucralfate,GERD,"September 22, 2017",3,Mild Side Effects,5
+8379,Zolpidem,Insomnia,"December 26, 2013",84,No Side Effects,5
+109686,Nexplanon,Birth Control,"August 14, 2016",1,Mild Side Effects,3
+182455,Mirena,Birth Control,"October 27, 2009",3,No Side Effects,2
+105973,Atomoxetine,ADHD,"June 30, 2015",7,No Side Effects,1
+71073,Viberzi,Irritable Bowel Syndrome,"May 11, 2017",10,Moderate Side Effects,5
+170465,Quetiapine,Generalized Anxiety Disorde,"December 19, 2015",23,No Side Effects,2
+140481,Escitalopram,Depression,"May 6, 2017",16,Severe Side Effects,1
+85413,Ethinyl estradiol / norgestimate,Abnormal Uterine Bleeding,"April 29, 2015",4,No Side Effects,5
+182096,Briviact,Seizures,"January 16, 2017",8,Moderate Side Effects,4
+130841,Levonorgestrel,Birth Control,"July 28, 2011",0,Severe Side Effects,4
+136982,Isotretinoin,Acne,"October 3, 2016",121,Moderate Side Effects,5
+149293,Mirena,Birth Control,"March 7, 2015",11,No Side Effects,5
+95679,Sertraline,Premenstrual Dysphoric Disorde,"December 9, 2014",2,Severe Side Effects,5
+125141,Dulcolax,Constipation,"December 21, 2016",3,No Side Effects,4
+51481,Aczone,Acne,"November 21, 2016",9,Moderate Side Effects,5
+112905,Bisacodyl,Constipation,"June 19, 2017",4,Mild Side Effects,5
+184202,Hydroxyzine,Anxiety,"February 10, 2016",34,Severe Side Effects,1
+28238,Lexapro,Depression,"January 11, 2015",68,Mild Side Effects,4
+232237,Monistat 1-Day or Night Combination Pack,Vaginal Yeast Infection,"December 16, 2015",3,Mild Side Effects,1
+68075,Plan B,Emergency Contraception,"December 29, 2015",18,No Side Effects,5
+85932,Ethinyl estradiol / norgestimate,Birth Control,"March 7, 2013",18,Moderate Side Effects,5
+37360,Vyvanse,ADHD,"April 24, 2015",49,Severe Side Effects,1
+127061,Metoclopramide,Migraine,"August 21, 2009",21,Mild Side Effects,2
+195110,Senokot,Constipation,"October 3, 2017",3,Severe Side Effects,5
+45025,Fluoxetine,Anxiety and Stress,"April 4, 2017",3,Mild Side Effects,4
+120715,Dicyclomine,Irritable Bowel Syndrome,"March 25, 2011",38,No Side Effects,5
+110680,Duragesic,Chronic Pain,"December 21, 2012",36,Mild Side Effects,4
+27253,Imitrex,Cluster Headaches,"April 1, 2016",3,Mild Side Effects,1
+88148,Clindamycin,Bacterial Infection,"November 4, 2013",20,No Side Effects,2
+205998,Pristiq,Anxiety,"March 21, 2009",31,Moderate Side Effects,4
+92031,Lyrica,ibromyalgia,"August 18, 2013",65,No Side Effects,5
+26296,Sprintec,Abnormal Uterine Bleeding,"March 4, 2016",6,Mild Side Effects,5
+115211,Diazepam,Light Sedation,"June 29, 2011",62,Mild Side Effects,5
+143944,Etonogestrel,Birth Control,"August 2, 2016",5,No Side Effects,3
+2038,Metformin,min),"September 15, 2017",3,Mild Side Effects,5
+228392,Butrans,Chronic Pain,"September 11, 2013",62,Mild Side Effects,4
+136771,Sodium hyaluronate,Osteoarthritis,"August 11, 2014",55,Mild Side Effects,5
+12153,Metaxalone,Muscle Spasm,"September 7, 2010",34,Moderate Side Effects,4
+109152,Nexplanon,Birth Control,"March 24, 2017",1,Extremely Severe Side Effects,2
+110458,Nexplanon,Birth Control,"January 5, 2016",2,Moderate Side Effects,1
+173346,Clonazepam,Anxiety,"December 10, 2008",96,Mild Side Effects,5
+221147,Drysol,Hyperhidrosis,"February 8, 2016",9,Mild Side Effects,5
+6123,Minastrin 24 Fe,Birth Control,"May 17, 2016",12,Severe Side Effects,5
+19294,Pregabalin,Generalized Anxiety Disorde,"June 16, 2016",41,Mild Side Effects,5
+191324,Lisdexamfetamine,ADHD,"October 12, 2016",12,Mild Side Effects,1
+27425,Requip,Restless Legs Syndrome,"December 3, 2014",38,Severe Side Effects,3
+114705,Methotrexate,Rheumatoid Arthritis,"May 12, 2016",62,No Side Effects,5
+82535,Liraglutide,"Diabetes, Type 2","August 6, 2010",17,No Side Effects,5
+122605,Linaclotide,"Constipation, Chronic","March 23, 2016",28,Mild Side Effects,3
+206124,Sansert,Cluster Headaches,"April 23, 2008",19,Mild Side Effects,5
+191851,Lisdexamfetamine,ADHD,"September 20, 2009",46,Mild Side Effects,5
+220317,Amitriptyline,Migraine Prevention,"July 23, 2014",43,Mild Side Effects,5
+202600,Chlorcyclizine / phenylephrine,Nasal Congestion,"October 1, 2013",0,Mild Side Effects,3
+129292,Levonorgestrel,Birth Control,"September 23, 2015",3,Mild Side Effects,5
+179700,Adapalene / benzoyl peroxide,Acne,"May 29, 2016",7,Moderate Side Effects,5
+72329,Tramadol,Restless Legs Syndrome,"June 30, 2011",20,No Side Effects,4
+83464,Levocetirizine,Allergies,"July 10, 2017",5,No Side Effects,1
+84811,Ethinyl estradiol / norgestimate,Ovarian Cysts,"April 19, 2016",6,No Side Effects,1
+198056,Metoprolol,Supraventricular Tachycardia,"May 23, 2011",58,No Side Effects,3
+46121,Rabeprazole,GERD,"December 9, 2017",0,Moderate Side Effects,5
+219582,Microgestin Fe 1.5 / 30,Birth Control,"January 27, 2016",7,Mild Side Effects,1
+51145,Azithromycin,Bacterial Infection,"May 16, 2016",3,Severe Side Effects,3
+17872,Ethinyl estradiol / etonogestrel,Birth Control,"October 26, 2013",10,Severe Side Effects,1
+79816,Lomotil,Diarrhea,"August 9, 2015",61,Moderate Side Effects,5
+124097,Skyla,Birth Control,"March 12, 2016",2,Severe Side Effects,4
+87806,Naproxen,Not Listed / Othe,"February 24, 2009",1,Moderate Side Effects,5
+231886,Trazodone,Sedation,"February 23, 2012",86,Mild Side Effects,5
+201326,Zoloft,Major Depressive Disorde,"February 6, 2016",6,Mild Side Effects,3
+94495,Abilify,Bipolar Disorde,"June 19, 2017",0,No Side Effects,1
+212870,Tizanidine,Muscle Spasm,"April 19, 2017",25,No Side Effects,5
+225643,Bupropion,Depression,"July 29, 2013",13,Mild Side Effects,5
+121235,Venlafaxine,Post Traumatic Stress Disorde,"August 31, 2016",2,No Side Effects,1
+174944,AndroGel,"Hypogonadism, Male","September 3, 2013",145,Mild Side Effects,5
+68401,Retapamulin,Acne,"May 22, 2011",4,Moderate Side Effects,5
+41737,Clonidine,Hypertensive Emergency,"December 11, 2014",13,Mild Side Effects,3
+38831,Esomeprazole,GERD,"May 29, 2008",32,Mild Side Effects,5
+92190,Lyrica,ibromyalgia,"December 16, 2009",62,Moderate Side Effects,4
+229188,Tadalafil,Erectile Dysfunction,"July 24, 2011",21,Severe Side Effects,4
+37720,Vyvanse,ADHD,"October 29, 2008",21,Moderate Side Effects,5
+13912,Bydureon,"Diabetes, Type 2","May 18, 2015",28,Severe Side Effects,5
+112245,Gabapentin,ibromyalgia,"February 11, 2017",24,Severe Side Effects,3
+166114,Levonorgestrel,Emergency Contraception,"January 22, 2017",11,Extremely Severe Side Effects,3
+130848,Levonorgestrel,Birth Control,"July 17, 2011",0,Moderate Side Effects,4
+2465,Uceris,Ulcerative Colitis,"November 26, 2016",4,No Side Effects,4
+37208,Vyvanse,ADHD,"April 9, 2017",14,Moderate Side Effects,1
+120374,Montelukast,Asthma,"August 2, 2015",46,Moderate Side Effects,1
+214498,Tioconazole,Vaginal Yeast Infection,"July 28, 2015",4,Moderate Side Effects,4
+994,Levo-Dromoran,Pain,"February 27, 2017",7,Moderate Side Effects,1
+215574,Copper,Birth Control,"June 1, 2017",3,Mild Side Effects,1
+168504,Tranylcypromine,Depression,"September 17, 2016",8,No Side Effects,3
+227992,Etonogestrel,Birth Control,"November 11, 2010",6,Mild Side Effects,4
+10243,Hyosyne,Irritable Bowel Syndrome,"August 30, 2009",23,Mild Side Effects,4
+120751,Norvasc,High Blood Pressure,"July 25, 2015",40,Mild Side Effects,1
+73959,Ethinyl estradiol / norethindrone,Acne,"January 3, 2012",36,Moderate Side Effects,4
+117624,Nortriptyline,Depression,"May 2, 2013",22,No Side Effects,1
+198841,Depo-Provera,Birth Control,"August 21, 2016",7,Mild Side Effects,1
+55793,Effexor,Depression,"December 7, 2014",48,Extremely Severe Side Effects,4
+50749,Gabapentin,Pain,"September 23, 2009",58,No Side Effects,4
+177755,Duloxetine,Generalized Anxiety Disorde,"February 21, 2014",183,Mild Side Effects,5
+148613,Mirena,Birth Control,"February 5, 2017",4,Mild Side Effects,5
+8917,Viagra,Erectile Dysfunction,"May 15, 2013",50,No Side Effects,5
+126531,Brimonidine,Rosacea,"March 5, 2014",65,Mild Side Effects,5
+147569,Alprazolam,Anxiety,"June 9, 2009",24,Moderate Side Effects,5
+134274,Lidoderm,Postherpetic Neuralgia,"November 25, 2017",0,Mild Side Effects,1
+192395,Drospirenone / ethinyl estradiol,Birth Control,"January 22, 2015",7,No Side Effects,5
+80711,Tussionex Pennkinetic,Cough,"February 14, 2014",43,Mild Side Effects,5
+80864,Delsym,Cough,"February 1, 2017",3,Mild Side Effects,1
+108558,Bupropion / naltrexone,Obesity,"March 2, 2015",33,Moderate Side Effects,4
+199060,Depo-Provera,Abnormal Uterine Bleeding,"February 13, 2016",8,No Side Effects,1
+41641,Clonidine,Anxiety,"December 13, 2016",32,No Side Effects,1
+7485,Xanax,Anxiety,"August 25, 2016",31,No Side Effects,5
+226592,Etonogestrel,Birth Control,"June 3, 2015",1,Mild Side Effects,2
+173673,Brexpiprazole,Depression,"July 25, 2016",3,No Side Effects,3
+229153,Tadalafil,Erectile Dysfunction,"April 16, 2013",75,Moderate Side Effects,2
+211767,Lamotrigine,Bipolar Disorde,"February 23, 2017",9,Moderate Side Effects,1
+225254,Bupropion,Depression,"October 10, 2015",3,Mild Side Effects,5
+55309,Bupropion / naltrexone,Obesity,"December 15, 2015",2,No Side Effects,2
+174871,Metamucil,Dietary Fiber Supplementation,"June 22, 2016",6,Moderate Side Effects,1
+160897,Ephedrine,Narcolepsy,"August 11, 2011",7,Mild Side Effects,4
+149477,Mirena,Birth Control,"August 23, 2013",17,No Side Effects,5
+143016,Etonogestrel,Birth Control,"August 9, 2017",3,No Side Effects,3
+129184,Levonorgestrel,Birth Control,"October 17, 2015",1,Moderate Side Effects,4
+184483,Hydroxyzine,Sedation,"February 12, 2012",39,No Side Effects,3
+191652,Lisdexamfetamine,ADHD,"April 10, 2013",26,Severe Side Effects,5
+30760,Miconazole,Vaginal Yeast Infection,"July 31, 2017",7,No Side Effects,1
+42651,Concerta,ADHD,"June 13, 2010",33,Mild Side Effects,3
+30804,Miconazole,Vaginal Yeast Infection,"June 7, 2017",9,Extremely Severe Side Effects,1
+78587,Daytrana,ADHD,"March 16, 2014",40,No Side Effects,5
+31162,Miconazole,Vaginal Yeast Infection,"December 9, 2016",6,Mild Side Effects,1
+149457,Mirena,Birth Control,"October 26, 2013",14,Severe Side Effects,5
+137229,Isotretinoin,Acne,"January 10, 2014",4,Moderate Side Effects,5
+203093,Gildess Fe 1 / 20,Birth Control,"September 22, 2014",9,No Side Effects,4
+58009,Acetaminophen / hydrocodone,Rheumatoid Arthritis,"February 17, 2011",132,Moderate Side Effects,5
+126427,Carvedilol,Left Ventricular Dysfunction,"February 10, 2011",23,No Side Effects,5
+94746,Abilify,Major Depressive Disorde,"August 23, 2014",14,Severe Side Effects,1
+3718,Fioricet,Headache,"January 13, 2016",39,Mild Side Effects,5
+8886,Viagra,Erectile Dysfunction,"October 11, 2015",23,Severe Side Effects,5
+147706,Aviane,Birth Control,"February 18, 2010",7,Mild Side Effects,4
+129865,Levonorgestrel,Emergency Contraception,"April 22, 2015",10,Mild Side Effects,5
+123811,Skyla,Birth Control,"November 12, 2016",4,No Side Effects,2
+119975,Losartan,High Blood Pressure,"January 19, 2014",159,Mild Side Effects,2
+101328,Aubra,Birth Control,"November 27, 2016",2,Moderate Side Effects,2
+179636,Adapalene / benzoyl peroxide,Acne,"November 5, 2016",5,No Side Effects,1
+133967,Ashlyna,Birth Control,"November 10, 2017",2,Severe Side Effects,5
+61736,Citalopram,Anxiety and Stress,"February 24, 2016",22,Mild Side Effects,3
+41511,Sofosbuvir,Hepatitis C,"July 25, 2015",6,Severe Side Effects,1
+20733,Nucynta,Pain,"March 22, 2011",17,No Side Effects,4
+179511,Adapalene / benzoyl peroxide,Acne,"September 29, 2017",10,No Side Effects,5
+168362,Rizatriptan,Migraine,"May 30, 2009",9,Mild Side Effects,5
+203748,Mefenamic acid,Period Pain,"February 13, 2015",30,Mild Side Effects,5
+110797,Ixekizumab,Plaque Psoriasis,"August 12, 2017",6,Severe Side Effects,5
+97037,Ambien,Insomnia,"February 17, 2014",35,Mild Side Effects,5
+41271,Acetaminophen / oxycodone,Pain,"September 22, 2009",18,No Side Effects,5
+225558,Bupropion,Depression,"March 20, 2014",223,No Side Effects,5
+171197,Levitra,Erectile Dysfunction,"March 11, 2012",48,Mild Side Effects,5
+29692,Topiramate,Migraine Prevention,"December 20, 2011",17,Moderate Side Effects,1
+51689,Azithromycin,Sinusitis,"February 24, 2015",12,Severe Side Effects,5
+47568,Tapentadol,Pain,"April 10, 2013",69,No Side Effects,5
+43974,Ethinyl estradiol / norgestimate,Birth Control,"July 5, 2012",3,Mild Side Effects,5
+131419,Generess Fe,Birth Control,"December 11, 2013",11,Extremely Severe Side Effects,4
+70585,Flomax,Benign Prostatic Hyperplasia,"June 19, 2011",58,Mild Side Effects,2
+150430,Sulfamethoxazole / trimethoprim,Bacterial Skin Infection,"February 6, 2017",38,No Side Effects,4
+94120,Trintellix,Depression,"February 22, 2016",11,Mild Side Effects,2
+94263,Trintellix,Depression,"March 20, 2015",26,Severe Side Effects,5
+182342,Mirena,Birth Control,"May 25, 2011",3,Severe Side Effects,5
+211420,Mirabegron,Overactive Bladde,"February 16, 2016",40,No Side Effects,1
+65245,Bisoprolol / hydrochlorothiazide,High Blood Pressure,"June 19, 2011",6,No Side Effects,3
+77697,Cephalexin,Bacterial Infection,"February 19, 2009",33,Severe Side Effects,5
+40375,Savella,ibromyalgia,"January 17, 2010",15,Severe Side Effects,1
+29696,Topiramate,Migraine Prevention,"November 5, 2011",17,Mild Side Effects,5
+89845,Emtricitabine / tenofovir,HIV Infection,"September 30, 2011",9,No Side Effects,5
+93185,Vortioxetine,Major Depressive Disorde,"January 29, 2016",40,Mild Side Effects,5
+182473,Angeliq,Postmenopausal Symptoms,"August 25, 2016",12,No Side Effects,5
+62760,Citalopram,Depression,"March 7, 2008",414,No Side Effects,5
+214795,Prevpac,Helicobacter Pylori Infection,"October 12, 2011",30,Mild Side Effects,3
+209292,Geodon,Bipolar Disorde,"November 3, 2009",36,Mild Side Effects,1
+110252,Nexplanon,Birth Control,"March 21, 2016",8,No Side Effects,1
+113522,Bisacodyl,Constipation,"September 23, 2012",5,No Side Effects,1
+103699,Dexedrine,ADHD,"February 28, 2012",17,No Side Effects,5
+138468,Phentermine,Weight Loss,"November 9, 2013",48,No Side Effects,5
+144607,Etonogestrel,Birth Control,"March 10, 2016",0,Moderate Side Effects,4
+25587,Supartz,Osteoarthritis,"November 4, 2014",67,No Side Effects,5
+83696,Clomiphene,emale Infertility,"September 17, 2015",11,Mild Side Effects,1
+64384,Sertraline,Panic Disorde,"September 6, 2016",107,No Side Effects,5
+48385,Ethinyl estradiol / levonorgestrel,Birth Control,"November 30, 2017",0,Mild Side Effects,1
+216348,Sildenafil,Erectile Dysfunction,"January 22, 2017",21,Extremely Severe Side Effects,4
+45226,Fluoxetine,Anxiety and Stress,"April 19, 2016",60,Mild Side Effects,4
+195964,Levomilnacipran,Major Depressive Disorde,"November 4, 2014",45,No Side Effects,1
+215739,Copper,Birth Control,"March 8, 2017",2,Moderate Side Effects,5
+141847,Escitalopram,ibromyalgia,"October 19, 2010",50,Mild Side Effects,5
+26952,Ultram,Chronic Pain,"September 4, 2017",4,No Side Effects,1
+202326,Lithium,Bipolar Disorde,"March 26, 2017",25,Moderate Side Effects,4
+179499,Olanzapine,Schizophrenia,"February 25, 2008",21,Mild Side Effects,4
+203617,Zyban,Smoking Cessation,"February 28, 2016",22,Mild Side Effects,5
+64926,Sertraline,Major Depressive Disorde,"March 21, 2015",29,No Side Effects,5
+140307,Asenapine,Bipolar Disorde,"October 1, 2010",37,Mild Side Effects,5
+150338,Sulfamethoxazole / trimethoprim,Bacterial Infection,"July 20, 2017",2,Moderate Side Effects,3
+75839,Temazepam,Insomnia,"August 24, 2013",61,Moderate Side Effects,5
+137893,Boniva,Osteoporosis,"December 23, 2016",15,Moderate Side Effects,1
+189883,Jardiance,"Diabetes, Type 2","October 19, 2015",25,Extremely Severe Side Effects,3
+12871,Vardenafil,Erectile Dysfunction,"November 20, 2017",0,Mild Side Effects,5
+99854,Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,"March 24, 2016",34,No Side Effects,5
+27484,Requip,Restless Legs Syndrome,"January 1, 2011",22,Mild Side Effects,3
+123789,Skyla,Birth Control,"November 29, 2016",1,Mild Side Effects,5
+4655,Belviq,Weight Loss,"July 20, 2015",32,Moderate Side Effects,4
+53385,Vicodin ES,Back Pain,"February 16, 2011",67,Moderate Side Effects,5
+194024,Gildess Fe 1.5 / 30,Birth Control,"October 10, 2013",4,Mild Side Effects,1
+134282,Lidoderm,Pain,"December 24, 2016",25,Moderate Side Effects,1
+184054,Hydroxyzine,Anxiety,"January 6, 2017",21,Severe Side Effects,5
+115415,Propofol,Anesthesia,"June 16, 2016",11,No Side Effects,4
+188975,Drospirenone / estradiol,Postmenopausal Symptoms,"March 2, 2016",10,Extremely Severe Side Effects,4
+14616,Ursodiol,Biliary Cirrhosis,"June 25, 2008",82,Moderate Side Effects,5
+89378,Celexa,Anxiety and Stress,"January 5, 2014",124,Mild Side Effects,4
+178279,Duloxetine,Anxiety,"November 12, 2009",50,Extremely Severe Side Effects,1
+117005,Lamictal,Bipolar Disorde,"December 17, 2009",31,Mild Side Effects,5
+53316,Ultram ER,Back Pain,"April 1, 2011",36,Mild Side Effects,4
+84764,Ethinyl estradiol / norgestimate,Birth Control,"May 1, 2016",6,Mild Side Effects,4
+88695,Fluticasone,Allergic Rhinitis,"August 22, 2016",13,Mild Side Effects,2
+150896,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,"October 12, 2011",36,Moderate Side Effects,5
+198190,Zelboraf,"Melanoma, Metastatic","May 26, 2017",1,Mild Side Effects,2
+183043,Cymbalta,Depression,"December 23, 2014",49,Moderate Side Effects,5
+180878,Biaxin,Bronchitis,"September 14, 2017",1,Severe Side Effects,1
+200157,Varenicline,Smoking Cessation,"February 21, 2015",68,Severe Side Effects,5
+89367,Celexa,Depression,"April 1, 2014",131,No Side Effects,4
+148413,Mirena,Birth Control,"August 31, 2017",3,No Side Effects,1
+162798,Cefdinir,Bronchitis,"January 21, 2016",9,No Side Effects,1
+150533,Sulfamethoxazole / trimethoprim,Bacterial Skin Infection,"July 11, 2016",8,No Side Effects,1
+196448,Eszopiclone,Insomnia,"December 4, 2014",43,Mild Side Effects,3
+179967,Adapalene / benzoyl peroxide,Acne,"June 20, 2014",15,No Side Effects,5
+91779,Lyrica,Diabetic Peripheral Neuropathy,"October 9, 2017",3,Moderate Side Effects,1
+32478,Lisinopril,High Blood Pressure,"February 19, 2014",48,Moderate Side Effects,3
+105043,Next Choice,Emergency Contraception,"November 6, 2013",27,No Side Effects,5
+45473,Fluoxetine,Obsessive Compulsive Disorde,"September 28, 2014",30,No Side Effects,5
+163918,Premsyn PMS,Premenstrual Syndrome,"June 11, 2017",0,No Side Effects,5
+137599,Ocular lubricant,Eye Redness,"November 9, 2014",9,No Side Effects,5
+49437,Ethinyl estradiol / levonorgestrel,Birth Control,"February 16, 2016",4,Severe Side Effects,4
+207796,Suprep Bowel Prep Kit,Bowel Preparation,"September 21, 2015",8,Severe Side Effects,5
+86669,Premphase,Postmenopausal Symptoms,"August 28, 2016",3,No Side Effects,3
+103054,Aripiprazole,Obsessive Compulsive Disorde,"April 27, 2008",55,Moderate Side Effects,5
+102555,Aripiprazole,Bipolar Disorde,"June 26, 2017",7,No Side Effects,3
+226419,Etonogestrel,Birth Control,"July 31, 2015",9,Mild Side Effects,5
+110512,Nexplanon,Birth Control,"December 29, 2015",1,Moderate Side Effects,1
+226762,Etonogestrel,Birth Control,"April 8, 2015",12,Mild Side Effects,1
+126210,Viibryd,Depression,"April 28, 2012",22,Mild Side Effects,1
+46300,Modafinil,Chronic Fatigue Syndrome,"December 6, 2015",15,No Side Effects,1
+83616,Levocetirizine,Allergies,"May 28, 2009",22,Mild Side Effects,3
+99330,Doxylamine,Insomnia,"November 10, 2015",39,Severe Side Effects,5
+159971,Bactrim,Sinusitis,"February 4, 2010",28,Moderate Side Effects,1
+141528,Escitalopram,Anxiety,"September 24, 2013",87,No Side Effects,5
+197896,Metoprolol,High Blood Pressure,"October 23, 2016",20,Moderate Side Effects,1
+26949,Ultram,Back Pain,"August 5, 2013",116,Mild Side Effects,5
+61942,Citalopram,Depression,"June 16, 2015",22,Moderate Side Effects,5
+110728,Tri-Luma,Melasma,"July 21, 2015",26,No Side Effects,5
+209312,Nifedipine,Premature Lab,"December 29, 2016",4,Mild Side Effects,1
+179976,Adapalene / benzoyl peroxide,Acne,"April 3, 2014",60,Moderate Side Effects,5
+126826,Dilaudid,Pain,"July 21, 2010",10,Mild Side Effects,5
+102317,Clindamycin / tretinoin,Acne,"November 11, 2014",38,Severe Side Effects,5
+10411,Spironolactone,Edema,"April 8, 2017",5,Mild Side Effects,5
+180219,Wart Remover,Warts,"October 6, 2015",2,Mild Side Effects,3
+124703,Tri-Previfem,Birth Control,"June 10, 2017",1,No Side Effects,4
+219163,Dupixent,Atopic Dermatitis,"July 17, 2017",16,Moderate Side Effects,1
+179166,Olanzapine,Bipolar Disorde,"December 9, 2016",4,Mild Side Effects,2
+144516,Etonogestrel,Birth Control,"March 28, 2016",3,No Side Effects,5
+157496,Emtricitabine / rilpivirine / tenofovir,HIV Infection,"July 10, 2016",3,No Side Effects,1
+161691,Remeron,Depression,"April 10, 2015",85,Severe Side Effects,3
+47516,Tapentadol,Pain,"June 24, 2016",27,Mild Side Effects,1
+56807,Meclizine,Motion Sickness,"March 3, 2015",31,Moderate Side Effects,5
+211236,Entocort EC,Crohn's Disease,"January 12, 2014",24,Moderate Side Effects,5
+120387,Montelukast,"Asthma, Maintenance","July 5, 2012",16,Moderate Side Effects,5
+68415,Nalbuphine,Pain,"June 21, 2014",8,No Side Effects,5
+156008,Cialis,Erectile Dysfunction,"March 27, 2016",54,Moderate Side Effects,5
+49937,Gabapentin,Anxiety,"November 17, 2015",90,No Side Effects,5
+205066,Complera,HIV Infection,"November 24, 2015",6,Moderate Side Effects,5
+130416,Levonorgestrel,Birth Control,"May 6, 2013",33,Moderate Side Effects,5
+57222,Frovatriptan,Migraine,"September 14, 2015",4,No Side Effects,5
+106763,Implanon,Birth Control,"July 7, 2015",1,No Side Effects,3
+91488,Anastrozole,Breast Cance,"February 25, 2008",292,Mild Side Effects,1
+192655,Drospirenone / ethinyl estradiol,Premenstrual Dysphoric Disorde,"December 2, 2011",9,Mild Side Effects,1
+169563,Stelara,Psoriasis,"August 16, 2012",17,No Side Effects,2
+1544,Eluxadoline,Irritable Bowel Syndrome,"February 6, 2017",21,Mild Side Effects,1
+91530,Dalfampridine,Multiple Sclerosis,"January 28, 2015",70,Mild Side Effects,5
+101873,Terbinafine,"Onychomycosis, Toenail","April 5, 2017",69,No Side Effects,5
+93172,Vortioxetine,Major Depressive Disorde,"February 17, 2016",48,Mild Side Effects,5
+31087,Miconazole,Vaginal Yeast Infection,"January 8, 2017",9,No Side Effects,3
+102860,Aripiprazole,Bipolar Disorde,"April 4, 2012",39,Moderate Side Effects,5
+16290,Ethinyl estradiol / norethindrone,Birth Control,"April 20, 2016",7,Moderate Side Effects,1
+21721,Guaifenesin / pseudoephedrine,Cough and Nasal Congestion,"September 16, 2014",39,No Side Effects,4
+129116,Levonorgestrel,Emergency Contraception,"October 24, 2015",6,Mild Side Effects,4
+70850,Magnesium citrate,Constipation,"August 10, 2016",73,Severe Side Effects,5
+99209,Lutera,Endometriosis,"April 7, 2010",11,Extremely Severe Side Effects,5
+70574,Flomax,Urinary Tract Stones,"September 18, 2015",28,Moderate Side Effects,2
+132613,Doxepin,Insomnia,"May 21, 2012",67,No Side Effects,5
+16569,Ethinyl estradiol / norethindrone,Birth Control,"December 1, 2015",5,Mild Side Effects,5
+144279,Etonogestrel,Birth Control,"May 11, 2016",8,No Side Effects,1
+182872,Cymbalta,Chronic Pain,"May 21, 2016",84,Severe Side Effects,5
+78010,NovoLog FlexPen,"Diabetes, Type 2","August 9, 2010",6,No Side Effects,5
+107658,Implanon,Birth Control,"July 14, 2010",1,No Side Effects,3
+108006,Ethinyl estradiol / norelgestromin,Birth Control,"June 5, 2016",8,Severe Side Effects,1
+157572,Guaifenesin,ibromyalgia,"October 9, 2011",124,No Side Effects,5
+120865,Venlafaxine,Major Depressive Disorde,"September 9, 2017",1,Severe Side Effects,4
+16763,Yaz,Birth Control,"March 18, 2009",26,Severe Side Effects,1
+222313,Kyleena,Birth Control,"November 14, 2017",1,No Side Effects,2
+69466,Buprenorphine,Pain,"June 9, 2016",44,Extremely Severe Side Effects,5
+175029,Fingolimod,Multiple Sclerosis,"January 31, 2015",64,Mild Side Effects,5
+171081,Quetiapine,Bipolar Disorde,"April 30, 2009",17,Mild Side Effects,4
+109621,Nexplanon,Birth Control,"September 16, 2016",0,No Side Effects,5
+46450,Modafinil,Depression,"May 20, 2009",287,Severe Side Effects,5
+79512,Plan B One-Step,Emergency Contraception,"March 22, 2014",29,Moderate Side Effects,5
+96337,Sertraline,Anxiety and Stress,"October 5, 2009",15,Severe Side Effects,4
+129952,Levonorgestrel,Birth Control,"March 19, 2015",22,No Side Effects,5
+91555,Aspirin,Osteoarthritis,"January 23, 2012",18,Mild Side Effects,5
+96572,Tindamax,Bacterial Vaginitis,"November 19, 2009",13,Moderate Side Effects,1
+64576,Sertraline,Depression,"January 29, 2016",23,Moderate Side Effects,2
+204809,Cyproheptadine,Anorexia,"May 26, 2017",10,No Side Effects,5
+143729,Etonogestrel,Birth Control,"October 27, 2016",4,No Side Effects,4
+109162,Nexplanon,Birth Control,"March 22, 2017",2,Mild Side Effects,1
+16662,Yaz,Birth Control,"October 26, 2009",5,Mild Side Effects,5
+98612,Nexplanon,Birth Control,"May 19, 2014",8,No Side Effects,3
+76324,Roflumilast,COPD,"February 19, 2012",79,Mild Side Effects,5
+82265,Liraglutide,"Diabetes, Type 2","September 17, 2015",16,No Side Effects,3
+220449,Loestrin 24 Fe,Birth Control,"December 3, 2011",1,Mild Side Effects,5
+117177,Synvisc-One,Osteoarthritis,"June 9, 2015",43,No Side Effects,5
+56112,Estradiol,Atrophic Vaginitis,"June 9, 2014",115,Moderate Side Effects,4
+76968,Lorcaserin,Weight Loss,"May 11, 2015",21,No Side Effects,1
+181102,Dramamine,Motion Sickness,"February 17, 2015",31,No Side Effects,5
+7402,Monistat 7-Day Combination Pack,Vaginal Yeast Infection,"January 7, 2016",1,No Side Effects,1
+158097,Ziprasidone,Schizophrenia,"September 11, 2016",6,Extremely Severe Side Effects,4
+120942,Venlafaxine,Anxiety,"August 5, 2017",4,Mild Side Effects,4
+39975,Contrave,Obesity,"July 16, 2015",9,Moderate Side Effects,4
+230465,Depo-Provera,Endometriosis,"June 30, 2013",50,No Side Effects,5
+191784,Drospirenone / ethinyl estradiol,Birth Control,"July 22, 2017",3,Extremely Severe Side Effects,1
+177616,Duloxetine,ibromyalgia,"August 2, 2015",74,Mild Side Effects,3
+13615,Amphetamine / dextroamphetamine,ADHD,"August 16, 2012",16,Moderate Side Effects,3
+227412,Etonogestrel,Birth Control,"June 24, 2013",7,Moderate Side Effects,5
+165659,Levonorgestrel,Emergency Contraception,"April 22, 2017",11,Moderate Side Effects,5
+219032,Subutex,Opiate Dependence,"July 1, 2008",99,Moderate Side Effects,5
+27544,Ivermectin,Rosacea,"March 13, 2017",15,Severe Side Effects,1
+115013,Diazepam,Anxiety,"November 12, 2015",8,Moderate Side Effects,1
+224284,Levothyroxine,Underactive Thyroid,"June 10, 2016",44,No Side Effects,5
+82472,Liraglutide,"Diabetes, Type 2","November 9, 2011",7,Severe Side Effects,5
+174139,Valium,Muscle Spasm,"March 22, 2009",54,No Side Effects,5
+140349,Asenapine,Schizoaffective Disorde,"June 26, 2012",27,Moderate Side Effects,5
+69582,Buprenorphine,Pain,"July 6, 2013",156,No Side Effects,5
+193465,Symbicort,"Asthma, Maintenance","October 13, 2017",3,No Side Effects,2
+62905,Paregoric,Diarrhea,"October 4, 2015",9,No Side Effects,5
+111535,Cipro,Urinary Tract Infection,"February 6, 2016",21,Moderate Side Effects,1
+172709,Clonazepam,Anxiety,"December 27, 2014",56,Mild Side Effects,1
+113691,Arthrotec,Osteoarthritis,"March 3, 2013",97,No Side Effects,5
+32609,Lisinopril,Migraine Prevention,"October 6, 2009",53,Severe Side Effects,4
+160010,Tamoxifen,Breast Cance,"May 31, 2013",73,Mild Side Effects,5
+164292,Diclofenac,Migraine,"December 6, 2017",0,No Side Effects,1
+137051,Isotretinoin,Acne,"December 15, 2015",9,No Side Effects,1
+22627,Pylera,Helicobacter Pylori Infection,"April 6, 2010",42,Mild Side Effects,3
+71798,Tramadol,Anxiety,"September 12, 2016",39,Moderate Side Effects,5
+171678,Wellbutrin,Depression,"November 30, 2009",55,Mild Side Effects,5
+48806,Ethinyl estradiol / levonorgestrel,Birth Control,"February 24, 2017",10,Severe Side Effects,5
+79809,Xarelto,Prevention of Thromboembolism in Atrial Fibrillation,"June 10, 2012",163,Mild Side Effects,1
+93061,Vortioxetine,Major Depressive Disorde,"October 20, 2016",8,No Side Effects,5
+69477,Buprenorphine,Opiate Dependence,"October 9, 2015",6,Mild Side Effects,1
+187857,Etonogestrel,Birth Control,"October 8, 2017",5,No Side Effects,5
+26265,Sprintec,Birth Control,"March 13, 2016",7,No Side Effects,2
+228384,Butrans,Pain,"May 27, 2011",46,No Side Effects,4
+196401,Atovaquone / proguanil,Malaria Prevention,"March 1, 2011",30,No Side Effects,5
+14332,Testim,"Hypogonadism, Male","July 1, 2017",4,Mild Side Effects,1
+105734,Methylprednisolone,"Gout, Acute","December 28, 2013",54,No Side Effects,5
+30734,Miconazole,Vaginal Yeast Infection,"July 17, 2017",9,No Side Effects,1
+96577,Neurontin,Periodic Limb Movement Disorde,"July 26, 2011",12,Mild Side Effects,1
+211482,Mirabegron,Overactive Bladde,"January 12, 2013",87,No Side Effects,5
+128266,Phentermine,Weight Loss,"January 26, 2016",1,Mild Side Effects,5
+195211,Hydrocodone / ibuprofen,Pain,"December 20, 2011",7,Mild Side Effects,5
+69472,Buprenorphine,Chronic Pain,"May 27, 2016",17,Mild Side Effects,2
+17307,Errin,Birth Control,"November 14, 2017",0,Mild Side Effects,2
+59857,NuvaRing,Birth Control,"December 21, 2015",4,No Side Effects,4
+146376,Suboxone,Opiate Dependence,"January 25, 2009",20,Mild Side Effects,5
+3700,Asacol HD,"Ulcerative Colitis, Maintenance","October 20, 2015",5,Mild Side Effects,5
+23774,Saphris,Schizophrenia,"July 20, 2017",3,No Side Effects,5
+225690,Bupropion,Smoking Cessation,"December 11, 2011",73,Moderate Side Effects,4
+6442,Ocella,Birth Control,"May 14, 2010",6,No Side Effects,3
+107266,Implanon,Birth Control,"March 3, 2012",0,No Side Effects,2
+222720,Topamax,Migraine Prevention,"May 7, 2016",47,Mild Side Effects,5
+36301,Imiquimod,Keratosis,"June 24, 2013",32,No Side Effects,4
+154170,Nexium,GERD,"December 29, 2016",14,Severe Side Effects,1
+104997,Ethinyl estradiol / levonorgestrel,Birth Control,"March 28, 2009",5,Severe Side Effects,4
+5173,Orsythia,Birth Control,"May 26, 2015",3,No Side Effects,2
+34110,Tramadol,Pain,"August 31, 2009",11,No Side Effects,1
+27278,Imitrex,Migraine,"June 12, 2014",10,No Side Effects,5
+214044,Tioconazole,Vaginal Yeast Infection,"July 3, 2016",5,No Side Effects,1
+125491,Dulcolax,Constipation,"September 8, 2014",43,Mild Side Effects,3
+131,Medroxyprogesterone,Abnormal Uterine Bleeding,"December 9, 2015",9,Severe Side Effects,1
+66821,Seroquel,Bipolar Disorde,"December 3, 2012",23,Mild Side Effects,4
+82004,Liraglutide,Obesity,"September 20, 2016",11,No Side Effects,1
+146964,Alprazolam,Panic Disorde,"November 10, 2015",70,Mild Side Effects,5
+90371,Cheratussin AC,Cough,"April 4, 2016",8,Moderate Side Effects,3
+70410,MetroCream,Rosacea,"January 27, 2010",49,Mild Side Effects,4
+147960,Norethindrone,Birth Control,"November 4, 2016",11,No Side Effects,4
+180883,Biaxin,Strep Throat,"January 21, 2017",4,Mild Side Effects,5
+33726,Junel Fe 1 / 20,Birth Control,"October 26, 2017",1,Moderate Side Effects,1
+191550,Lisdexamfetamine,ADHD,"March 30, 2015",1,Mild Side Effects,4
+204646,BuSpar,Anxiety,"February 12, 2009",57,No Side Effects,5
+158148,Ziprasidone,Bipolar Disorde,"June 1, 2012",0,No Side Effects,4
+52663,Doryx,Acne,"April 26, 2011",8,Mild Side Effects,5
+98969,Lutera,Birth Control,"August 15, 2016",1,Mild Side Effects,5
+224520,Levothyroxine,TSH Suppression,"September 23, 2011",59,Moderate Side Effects,3
+94462,Abilify,Major Depressive Disorde,"August 21, 2017",4,No Side Effects,1
+206855,Duac,Acne,"January 4, 2014",15,Mild Side Effects,4
+15307,Ethinyl estradiol / norethindrone,Birth Control,"March 20, 2017",6,Mild Side Effects,3
+191089,Campral,Alcohol Dependence,"January 28, 2014",97,Mild Side Effects,5
+67760,Plan B,Emergency Contraception,"February 11, 2017",9,Moderate Side Effects,5
+162960,Cefdinir,Otitis Media,"August 10, 2009",3,No Side Effects,1
+21999,Infliximab,Ankylosing Spondylitis,"July 3, 2013",10,Mild Side Effects,4
+27996,Lexapro,Generalized Anxiety Disorde,"April 14, 2016",17,No Side Effects,5
+155763,Cialis,Erectile Dysfunction,"March 16, 2017",49,No Side Effects,5
+198039,Metoprolol,High Blood Pressure,"January 11, 2014",100,Moderate Side Effects,1
+101490,Xeljanz,Rheumatoid Arthritis,"August 20, 2016",24,Moderate Side Effects,4
+159342,Januvia,"Diabetes, Type 2","July 22, 2013",140,No Side Effects,5
+223269,Glyburide / metformin,min),"January 1, 2009",16,No Side Effects,4
+155843,Metronidazole,Bacterial Vaginitis,"November 25, 2009",15,No Side Effects,4
+24283,Tretinoin,Acne,"March 6, 2010",20,No Side Effects,1
+141422,Escitalopram,Anxiety,"February 1, 2014",188,Mild Side Effects,5
+188193,ParaGard,Birth Control,"November 21, 2017",0,Severe Side Effects,1
+169625,Aspirin / butalbital / caffeine,Migraine,"October 3, 2013",28,Mild Side Effects,5
+170207,Quetiapine,Post Traumatic Stress Disorde,"November 8, 2016",5,Severe Side Effects,4
+150120,Mucinex D,Cough and Nasal Congestion,"February 29, 2016",21,Severe Side Effects,2
+173121,Clonazepam,Panic Disorde,"January 22, 2012",37,Severe Side Effects,5
+22497,Pramoxine,Hemorrhoids,"April 2, 2012",18,Severe Side Effects,5
+13184,Raltegravir,HIV Infection,"June 16, 2017",2,Moderate Side Effects,3
+99859,Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,"March 22, 2016",15,Severe Side Effects,5
+220691,Loestrin 24 Fe,Acne,"November 11, 2010",9,Mild Side Effects,4
+20208,Macrobid,Urinary Tract Infection,"March 23, 2015",37,Moderate Side Effects,1
+28674,Lexapro,Anxiety,"March 16, 2011",8,Extremely Severe Side Effects,4
+117420,Nortriptyline,Migraine Prevention,"October 6, 2017",1,Mild Side Effects,5
+7835,Xanax,Depression,"March 28, 2013",144,Severe Side Effects,5
+195144,Famotidine / ibuprofen,Osteoarthritis,"March 3, 2017",6,No Side Effects,5
+138558,Phentermine,Weight Loss,"April 23, 2013",90,No Side Effects,5
+96073,Sertraline,Panic Disorde,"June 29, 2012",63,Mild Side Effects,4
+26497,Sprintec,Birth Control,"March 20, 2014",17,Mild Side Effects,2
+119621,Testosterone,"Hypogonadism, Male","March 2, 2010",41,Severe Side Effects,4
+102901,Aripiprazole,Autism,"January 14, 2012",103,Mild Side Effects,5
+75332,Vistaril,Anxiety,"February 16, 2014",163,No Side Effects,5
+1404,Sumatriptan,Migraine,"October 6, 2009",3,No Side Effects,5
+41102,Acetaminophen / oxycodone,Pain,"August 24, 2013",30,Moderate Side Effects,5
+180761,Dienogest / estradiol,Birth Control,"April 10, 2016",5,Mild Side Effects,1
+222577,Kyleena,Birth Control,"May 12, 2017",2,Mild Side Effects,5
+156685,Dulaglutide,"Diabetes, Type 2","September 12, 2016",29,Moderate Side Effects,4
+221322,Dextromethorphan,Cough,"August 10, 2017",0,Moderate Side Effects,5
+176832,Triazolam,Insomnia,"April 16, 2014",22,No Side Effects,5
+129531,Levonorgestrel,Emergency Contraception,"July 12, 2015",15,Mild Side Effects,1
+33282,Microgestin Fe 1 / 20,Acne,"October 15, 2016",3,Extremely Severe Side Effects,3
+205408,Pristiq,Depression,"August 19, 2015",59,Moderate Side Effects,5
+176488,Lorazepam,Anxiety,"August 21, 2012",15,Mild Side Effects,5
+144475,Etonogestrel,Birth Control,"April 11, 2016",7,Mild Side Effects,5
+102263,Clindamycin / tretinoin,Acne,"August 4, 2017",1,No Side Effects,5
+76178,Portia,Birth Control,"February 23, 2010",2,No Side Effects,5
+208639,Amlodipine / olmesartan,High Blood Pressure,"January 28, 2015",11,Moderate Side Effects,5
+201162,Zoloft,Panic Disorde,"September 18, 2016",14,No Side Effects,1
+170533,Quetiapine,Depression,"September 9, 2015",12,No Side Effects,2
+119860,Losartan,High Blood Pressure,"February 8, 2017",19,No Side Effects,5
+199599,Zonegran,Seizures,"October 2, 2009",16,Moderate Side Effects,2
+183397,Cymbalta,ibromyalgia,"December 11, 2011",7,Mild Side Effects,3
+126734,Dilaudid,Pain,"August 28, 2009",14,Moderate Side Effects,4
+6592,Primidone,Benign Essential Trem,"February 16, 2016",23,Moderate Side Effects,2
+112420,Gabapentin,Hot Flashes,"October 24, 2016",22,No Side Effects,5
+157745,Accutane,Acne,"July 13, 2015",22,No Side Effects,5
+214567,Escitalopram,Depression,"December 11, 2017",0,Mild Side Effects,5
+123100,Azelastine,Allergic Rhinitis,"May 8, 2017",5,Mild Side Effects,1
+61683,Citalopram,Anxiety and Stress,"July 4, 2016",19,Mild Side Effects,5
+231743,Trazodone,Insomnia,"August 7, 2014",164,Mild Side Effects,5
+223167,Estradiol,Postmenopausal Symptoms,"November 13, 2016",10,Mild Side Effects,2
+79995,Clindamax,Bacterial Vaginitis,"August 23, 2008",38,No Side Effects,5
+43620,LoSeasonique,Birth Control,"August 5, 2014",3,Moderate Side Effects,5
+117017,Synvisc-One,Osteoarthritis,"August 2, 2017",10,Severe Side Effects,5
+38673,Liletta,Birth Control,"August 15, 2016",16,Severe Side Effects,1
+190151,Protonix,GERD,"September 28, 2009",40,No Side Effects,5
+114364,Tacrolimus,Atopic Dermatitis,"September 26, 2015",5,Extremely Severe Side Effects,1
+186566,Desvenlafaxine,Depression,"August 4, 2010",31,No Side Effects,5
+140067,Xanax XR,Panic Disorde,"June 26, 2010",74,Mild Side Effects,5
+3974,Seroquel XR,Major Depressive Disorde,"December 28, 2015",12,No Side Effects,3
+43693,LoSeasonique,Premenstrual Syndrome,"September 29, 2011",9,Mild Side Effects,1
+101142,Actos,"Diabetes, Type 2","October 24, 2011",50,Mild Side Effects,5
+227419,Etonogestrel,Birth Control,"June 16, 2013",11,Mild Side Effects,5
+227441,Etonogestrel,Birth Control,"May 16, 2013",3,Mild Side Effects,3
+195182,Hyzine,Anxiety,"November 12, 2016",42,Mild Side Effects,1
+98231,Nexplanon,Birth Control,"June 20, 2015",6,No Side Effects,3
+207256,Valtrex,"Herpes Simplex, Suppression","May 8, 2015",219,No Side Effects,5
+169498,Stelara,Psoriasis,"February 22, 2016",29,Moderate Side Effects,5
+40664,Fluocinonide,Psoriasis,"July 9, 2015",6,Moderate Side Effects,3
+73398,Ethinyl estradiol / norethindrone,Birth Control,"June 1, 2014",6,Moderate Side Effects,4
+79573,Plan B One-Step,Emergency Contraception,"July 9, 2011",187,Moderate Side Effects,5
+115770,Divalproex sodium,Migraine Prevention,"March 1, 2017",4,Moderate Side Effects,4
+50783,Gabapentin,Pain,"April 20, 2009",11,Mild Side Effects,1
+55108,Bupropion / naltrexone,Obesity,"March 31, 2016",8,No Side Effects,3
+195972,Dexbrompheniramine / pseudoephedrine,Cold Symptoms,"November 5, 2008",9,Mild Side Effects,5
+189664,Oxycodone,Pain,"March 12, 2009",28,Extremely Severe Side Effects,5
+196622,Letrozole,Breast Cance,"March 21, 2016",59,No Side Effects,1
+10717,Spironolactone,Acne,"July 8, 2011",27,Extremely Severe Side Effects,5
+44149,Ethinyl estradiol / norgestimate,Birth Control,"September 23, 2011",1,Mild Side Effects,2
+9816,Lo Loestrin Fe,Birth Control,"April 7, 2015",11,Mild Side Effects,5
+202647,Hydroxychloroquine,Undifferentiated Connective Tissue Disease,"February 9, 2015",31,Severe Side Effects,4
+72491,Tramadol,Restless Legs Syndrome,"May 17, 2011",22,Mild Side Effects,5
+73202,Ethinyl estradiol / norethindrone,Birth Control,"September 30, 2014",46,Mild Side Effects,5
+81623,Liraglutide,Weight Loss,"July 13, 2017",17,Moderate Side Effects,5
+74032,Ethinyl estradiol / norethindrone,Birth Control,"July 25, 2011",20,Moderate Side Effects,4
+89669,Celexa,Anxiety and Stress,"November 10, 2010",27,No Side Effects,1
+222427,Kyleena,Birth Control,"August 29, 2017",4,Moderate Side Effects,3
+192917,Drospirenone / ethinyl estradiol,Birth Control,"September 2, 2009",16,Moderate Side Effects,5
+107050,Implanon,Birth Control,"November 5, 2012",2,No Side Effects,5
+226812,Etonogestrel,Birth Control,"February 9, 2015",0,No Side Effects,5
+153816,Amoxicillin,Bacterial Infection,"August 30, 2015",19,Extremely Severe Side Effects,1
+131045,Levonorgestrel,Birth Control,"January 8, 2010",2,No Side Effects,5
+186008,Desvenlafaxine,Depression,"May 29, 2016",54,Mild Side Effects,4
+216252,Copper,Birth Control,"June 6, 2015",2,Moderate Side Effects,5
+106468,Implanon,Birth Control,"May 19, 2016",9,No Side Effects,1
+5065,Orsythia,Birth Control,"June 4, 2016",2,Moderate Side Effects,1
+48401,Ethinyl estradiol / levonorgestrel,Birth Control,"November 14, 2017",0,Moderate Side Effects,3
+11362,Telmisartan,High Blood Pressure,"June 17, 2008",134,Mild Side Effects,5
+93489,Progesterone,Premature Lab,"August 29, 2014",21,Moderate Side Effects,5
+83587,Levocetirizine,Urticaria,"May 13, 2010",21,Moderate Side Effects,5
+190683,Zetia,High Cholesterol,"November 12, 2017",2,Mild Side Effects,1
+45641,Fluoxetine,Depression,"December 10, 2012",29,Moderate Side Effects,5
+87274,Latuda,Schizoaffective Disorde,"June 19, 2012",42,No Side Effects,5
+119726,Abacavir / lamivudine,HIV Infection,"March 16, 2013",4,Mild Side Effects,5
+117165,Synvisc-One,Osteoarthritis,"March 2, 2016",34,Mild Side Effects,2
+198113,Muse,Erectile Dysfunction,"November 2, 2015",66,Mild Side Effects,5
+19303,Pregabalin,Neuropathic Pain,"May 12, 2016",140,Moderate Side Effects,5
+208067,Suprep Bowel Prep Kit,Bowel Preparation,"August 30, 2013",23,Mild Side Effects,5
+10797,Mononessa,Birth Control,"July 15, 2015",9,No Side Effects,5
+148368,Mirena,Abnormal Uterine Bleeding,"September 14, 2017",1,Mild Side Effects,3
+126720,Dilaudid,Pain,"August 31, 2011",10,Extremely Severe Side Effects,5
+142065,Janumet,"Diabetes, Type 2","September 5, 2008",42,No Side Effects,5
+119909,Losartan,High Blood Pressure,"September 13, 2015",40,No Side Effects,4
+171992,Amitiza,Irritable Bowel Syndrome,"July 24, 2015",57,No Side Effects,5
+17751,Ethinyl estradiol / etonogestrel,Birth Control,"August 2, 2015",4,Severe Side Effects,2
+231060,Milnacipran,ibromyalgia,"November 5, 2009",13,Mild Side Effects,5
+98726,Nexplanon,Birth Control,"November 8, 2013",10,No Side Effects,5
+144796,Etonogestrel,Birth Control,"January 22, 2016",2,No Side Effects,1
+169788,Amitriptyline,Insomnia,"June 14, 2009",30,Mild Side Effects,3
+142590,Levonorgestrel,Birth Control,"August 16, 2017",5,Moderate Side Effects,1
+20179,Macrobid,Bladder Infection,"September 24, 2015",17,Moderate Side Effects,1
+69293,Celebrex,Osteoarthritis,"April 7, 2008",72,No Side Effects,5
+139538,Armodafinil,Narcolepsy,"November 17, 2009",24,Mild Side Effects,5
+91038,Norco,Pain,"June 11, 2009",5,Mild Side Effects,2
+189740,Oxycodone,Pain,"August 8, 2008",34,Moderate Side Effects,5
+216475,Sildenafil,Erectile Dysfunction,"December 22, 2013",70,No Side Effects,5
+137962,Ortho Evra,Birth Control,"January 25, 2016",13,No Side Effects,2
+127540,Phentermine,Weight Loss,"August 3, 2017",16,Mild Side Effects,3
+131695,Effexor XR,Panic Disorde,"January 16, 2017",12,No Side Effects,5
+148874,Mirena,Birth Control,"November 18, 2015",3,Moderate Side Effects,5
+48651,Ethinyl estradiol / levonorgestrel,Birth Control,"June 13, 2017",1,Moderate Side Effects,3
+187411,Monistat 3-Day Combination Pack,Vaginal Yeast Infection,"May 4, 2017",4,Moderate Side Effects,4
+107026,Implanon,Birth Control,"June 19, 2013",32,No Side Effects,5
+111712,Cipro,Urinary Tract Infection,"March 13, 2009",174,Mild Side Effects,1
+149077,Mirena,Birth Control,"August 20, 2015",3,Severe Side Effects,1
+110632,Nexplanon,Birth Control,"December 9, 2015",0,No Side Effects,2
+168448,Monistat 7,Vaginal Yeast Infection,"August 18, 2016",5,Extremely Severe Side Effects,1
+154876,Metronidazole,Bacterial Vaginitis,"January 4, 2017",12,No Side Effects,5
+83963,Ethinyl estradiol / norgestimate,Birth Control,"July 11, 2017",3,Severe Side Effects,1
+110310,Nexplanon,Birth Control,"February 19, 2016",2,Moderate Side Effects,2
+147529,Alprazolam,Anxiety,"February 26, 2010",48,Mild Side Effects,5
+91547,Aspirin,Heart Attack,"December 30, 2013",7,No Side Effects,4
+138572,Phentermine,Weight Loss,"March 22, 2013",36,Severe Side Effects,5
+123248,Apri,Birth Control,"January 13, 2017",8,No Side Effects,2
+61489,Citalopram,Depression,"March 30, 2017",19,Mild Side Effects,5
+78481,Hydroxyprogesterone,Premature Lab,"January 15, 2017",9,Moderate Side Effects,3
+38834,Esomeprazole,GERD,"March 14, 2008",29,Mild Side Effects,5
+451,Medroxyprogesterone,Birth Control,"May 8, 2015",1,No Side Effects,2
+89508,Celexa,Anxiety and Stress,"May 11, 2013",145,No Side Effects,4
+9461,Lo Loestrin Fe,Birth Control,"August 23, 2016",9,Mild Side Effects,5
+63570,Epiduo,Acne,"May 5, 2015",17,No Side Effects,5
+183751,Cymbalta,Depression,"November 6, 2008",113,Mild Side Effects,5
+80694,Tussionex Pennkinetic,Cough,"December 31, 2009",5,No Side Effects,5
+177692,Duloxetine,Urinary Incontinence,"November 20, 2014",6,Extremely Severe Side Effects,5
+205275,Pristiq,Depression,"April 9, 2017",18,Mild Side Effects,4
+231188,Peginterferon alfa-2a,Hepatitis C,"August 3, 2009",20,Moderate Side Effects,4
+76488,Octreotide,"Diabetes, Type 1","October 31, 2011",1,Mild Side Effects,5
+133905,Hydrochlorothiazide / triamterene,High Blood Pressure,"January 28, 2017",21,Severe Side Effects,1
+202552,Lithium,Cluster Headaches,"October 13, 2011",35,No Side Effects,5
+22173,Baclofen,Cerebral Spasticity,"June 8, 2015",7,Extremely Severe Side Effects,1
+13028,Vardenafil,Erectile Dysfunction,"May 10, 2011",36,No Side Effects,5
+208976,Belsomra,Insomnia,"August 3, 2015",62,Extremely Severe Side Effects,1
+99096,Lutera,Birth Control,"July 24, 2013",4,No Side Effects,5
+55157,Bupropion / naltrexone,Obesity,"March 31, 2016",8,No Side Effects,1
+179158,Olanzapine,Schizophrenia,"January 12, 2017",10,No Side Effects,4
+4821,Belviq,Weight Loss,"February 17, 2015",154,Mild Side Effects,5
+219666,Taytulla,Birth Control,"March 2, 2017",10,Moderate Side Effects,5
+100053,Desogestrel / ethinyl estradiol,Birth Control,"May 8, 2017",2,Moderate Side Effects,4
+142025,Escitalopram,Anxiety,"December 31, 2008",20,No Side Effects,5
+183928,Natazia,Menorrhagia,"January 29, 2013",18,Extremely Severe Side Effects,5
+178770,Victoza,"Diabetes, Type 2","May 8, 2014",36,No Side Effects,1
+178249,Duloxetine,Generalized Anxiety Disorde,"August 13, 2010",73,Moderate Side Effects,4
+8591,Zolpidem,Insomnia,"October 23, 2010",1,No Side Effects,5
+28886,Lexapro,Depression,"August 20, 2009",15,Mild Side Effects,4
+93291,Vortioxetine,Depression,"June 10, 2015",107,Extremely Severe Side Effects,5
+177281,Duloxetine,Peripheral Neuropathy,"March 13, 2017",4,Mild Side Effects,1
+7765,Xanax,Anxiety,"December 1, 2011",7,No Side Effects,4
+25515,Nivolumab,Melanoma,"November 19, 2017",2,Moderate Side Effects,5
+33223,Microgestin Fe 1 / 20,Birth Control,"March 23, 2017",0,Moderate Side Effects,1
+223113,Estradiol,Postmenopausal Symptoms,"March 24, 2016",18,Mild Side Effects,5
+27436,Requip,Restless Legs Syndrome,"April 5, 2017",26,Moderate Side Effects,1
+184752,Canagliflozin,"Diabetes, Type 2","September 13, 2016",20,Moderate Side Effects,1
+109847,Nexplanon,Birth Control,"June 24, 2016",0,No Side Effects,1
+49902,Gabapentin,Neuropathic Pain,"January 2, 2016",12,Extremely Severe Side Effects,4
+202797,Loperamide,Diarrhea,"November 26, 2008",30,Severe Side Effects,5
+163382,Methylphenidate,ADHD,"August 3, 2017",5,Severe Side Effects,4
+195305,Low-Ogestrel-21,Birth Control,"June 16, 2008",23,Mild Side Effects,5
+4660,Belviq,Weight Loss,"July 13, 2015",32,No Side Effects,3
+52104,Adipex-P,Weight Loss,"May 18, 2011",19,No Side Effects,5
+66815,Seroquel,Bipolar Disorde,"January 4, 2013",30,Moderate Side Effects,1
+46684,My Way,Emergency Contraception,"December 28, 2015",5,Severe Side Effects,5
+225163,Bupropion,Depression,"February 8, 2016",4,Mild Side Effects,5
+113166,Bisacodyl,Constipation,"May 2, 2016",5,Moderate Side Effects,1
+35570,Quinine,Nocturnal Leg Cramps,"June 25, 2009",40,Mild Side Effects,5
+119303,Testosterone,"Hypogonadism, Male","May 23, 2016",5,No Side Effects,4
+19470,Pregabalin,Generalized Anxiety Disorde,"June 22, 2014",146,Extremely Severe Side Effects,5
+151521,Chantix,Smoking Cessation,"November 22, 2015",36,No Side Effects,5
+7102,Aluminum chloride hexahydrate,Hyperhidrosis,"July 22, 2013",2,Extremely Severe Side Effects,5
+100487,Desogestrel / ethinyl estradiol,Birth Control,"July 13, 2013",13,No Side Effects,2
+35695,Buprenorphine / naloxone,Opiate Dependence,"November 28, 2016",33,No Side Effects,3
+123039,Avinza,Pain,"March 27, 2010",20,No Side Effects,5
+64369,Sertraline,Generalized Anxiety Disorde,"July 28, 2016",26,No Side Effects,5
+46067,Phendimetrazine,Obesity,"March 22, 2011",22,Mild Side Effects,5
+178253,Duloxetine,Diabetic Peripheral Neuropathy,"August 6, 2010",24,Moderate Side Effects,2
+57150,MiraLax,Constipation,"July 28, 2009",97,Mild Side Effects,5
+164601,Diclofenac,Rheumatoid Arthritis,"September 16, 2009",14,Severe Side Effects,5
+222007,Fluconazole,Vaginal Yeast Infection,"February 2, 2016",22,Moderate Side Effects,1
+3267,Nitrofurantoin,Urinary Tract Infection,"August 10, 2016",5,Moderate Side Effects,1
+95237,Guanfacine,Tourette's Syndrome,"August 8, 2014",18,Mild Side Effects,4
+115944,Divalproex sodium,Bipolar Disorde,"October 15, 2012",58,Mild Side Effects,5
+44484,Ethinyl estradiol / norgestimate,Birth Control,"November 6, 2009",6,No Side Effects,1
+169999,Quetiapine,Bipolar Disorde,"November 16, 2017",0,No Side Effects,2
+147171,Alprazolam,Panic Disorde,"August 8, 2013",54,Mild Side Effects,2
+169546,Stelara,Psoriasis,"October 6, 2013",45,Mild Side Effects,4
+26715,Sprintec,Birth Control,"August 12, 2010",90,Severe Side Effects,2
+58121,Acetaminophen / hydrocodone,Pain,"April 28, 2009",23,No Side Effects,4
+133138,Tri-Sprintec,Birth Control,"July 25, 2014",46,No Side Effects,5
+140287,Asenapine,Bipolar Disorde,"January 10, 2010",3,Mild Side Effects,1
+202573,Lithium,Bipolar Disorde,"September 9, 2008",51,Mild Side Effects,5
+122215,Venlafaxine,Depression,"November 2, 2008",64,Moderate Side Effects,5
+66012,Propranolol,mance Anxiety,"March 1, 2014",38,Severe Side Effects,5
+91978,Lyrica,Neuropathic Pain,"June 25, 2015",43,Moderate Side Effects,1
+16081,Ethinyl estradiol / norethindrone,Birth Control,"May 24, 2016",6,Moderate Side Effects,1
+223514,Epclusa,Hepatitis C,"March 2, 2017",17,No Side Effects,4
+190082,Desipramine,Depression,"February 8, 2013",57,Mild Side Effects,5
+28773,Lexapro,Depression,"March 7, 2010",34,Moderate Side Effects,5
+153309,Doxycycline,Acne,"June 13, 2015",16,No Side Effects,5
+156587,Dulaglutide,"Diabetes, Type 2","May 21, 2017",11,Mild Side Effects,2
+92072,Lyrica,Postherpetic Neuralgia,"May 10, 2013",75,Mild Side Effects,2
+211374,Mirabegron,Overactive Bladde,"August 14, 2016",16,Severe Side Effects,5
+101448,Ciclesonide,Allergic Rhinitis,"May 2, 2017",2,Mild Side Effects,2
+112862,Bisacodyl,Constipation,"April 25, 2017",4,Moderate Side Effects,5
+110318,Nexplanon,Birth Control,"February 17, 2016",1,Mild Side Effects,2
+150409,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,"December 7, 2016",8,No Side Effects,5
+129959,Levonorgestrel,Emergency Contraception,"March 17, 2015",38,No Side Effects,5
+56438,Humira,Psoriatic Arthritis,"December 5, 2013",33,Moderate Side Effects,5
+80301,Alavert D-12 Hour Allergy and Sinus,Allergic Rhinitis,"August 28, 2016",0,Mild Side Effects,1
+121243,Venlafaxine,Depression,"August 17, 2016",19,Moderate Side Effects,1
+76934,Lorcaserin,Weight Loss,"July 7, 2015",17,No Side Effects,3
+90928,Norco,Pain,"October 29, 2013",140,Mild Side Effects,5
+166812,Levonorgestrel,Birth Control,"July 30, 2016",4,Mild Side Effects,5
+97304,Ambien,Insomnia,"December 3, 2009",30,No Side Effects,4
+193071,Drospirenone / ethinyl estradiol,Birth Control,"October 6, 2008",32,No Side Effects,4
+201645,Zoloft,Depression,"November 16, 2014",194,No Side Effects,5
+174511,Abreva,Herpes Simplex,"May 4, 2017",3,Extremely Severe Side Effects,4
+113399,Bisacodyl,Constipation,"April 26, 2015",22,Mild Side Effects,4
+2054,Metformin,Polycystic Ovary Syndrome,"March 3, 2017",34,Mild Side Effects,4
+62818,Cozaar,High Blood Pressure,"June 4, 2009",122,Mild Side Effects,2
+94623,Abilify,Depression,"June 12, 2016",13,No Side Effects,3
+151524,Chantix,Smoking Cessation,"March 30, 2016",18,No Side Effects,3
+64593,Sertraline,Anxiety and Stress,"January 18, 2016",77,Severe Side Effects,5
+116988,Lamictal,Schizoaffective Disorde,"August 2, 2010",37,No Side Effects,5
+133947,Hydrochlorothiazide / triamterene,High Blood Pressure,"March 27, 2011",56,Moderate Side Effects,4
+8097,Xanax,Anxiety,"April 4, 2008",90,Mild Side Effects,5
+93150,Vortioxetine,Depression,"December 16, 2015",10,Moderate Side Effects,1
+2587,Plaquenil,Sjogren's Syndrome,"May 21, 2015",37,Severe Side Effects,5
+141029,Escitalopram,Generalized Anxiety Disorde,"November 20, 2015",46,Mild Side Effects,5
+29923,Klonopin,Panic Disorde,"September 18, 2017",28,Mild Side Effects,5
+232146,Alrex,Postoperative Ocular Inflammation,"August 7, 2012",17,Moderate Side Effects,5
+184813,Canagliflozin,"Diabetes, Type 2","October 13, 2015",39,No Side Effects,1
+57824,Acetaminophen / hydrocodone,Back Pain,"August 17, 2012",22,Moderate Side Effects,5
+178845,Victoza,"Diabetes, Type 2","September 23, 2012",27,No Side Effects,4
+114728,Methotrexate,Rheumatoid Arthritis,"July 5, 2014",97,Moderate Side Effects,3
+59481,Avelox,Pneumonia,"May 10, 2011",8,Moderate Side Effects,4
+182058,Betaseron,Multiple Sclerosis,"June 26, 2009",24,Mild Side Effects,4
+229684,Lurasidone,Bipolar Disorde,"November 28, 2013",91,Mild Side Effects,5
+150503,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,"July 18, 2016",10,No Side Effects,2
+109521,Nexplanon,Birth Control,"September 29, 2016",0,Moderate Side Effects,2
+115086,Diazepam,Temporomandibular Joint Disorde,"September 24, 2014",3,No Side Effects,5
+78146,Zyprexa,Depression,"November 22, 2012",68,Extremely Severe Side Effects,3
+78767,OnabotulinumtoxinA,Overactive Bladde,"September 17, 2015",46,Moderate Side Effects,1
+123886,Skyla,Birth Control,"October 6, 2016",0,Mild Side Effects,5
+53298,femhrt,Postmenopausal Symptoms,"November 22, 2010",28,Moderate Side Effects,5
+186057,Desvenlafaxine,Depression,"December 7, 2015",61,Mild Side Effects,5
+35566,Quinine,Nocturnal Leg Cramps,"October 1, 2010",21,Mild Side Effects,5
+214576,Escitalopram,Anxiety,"December 2, 2017",1,Extremely Severe Side Effects,3
+197701,Desvenlafaxine,Depression,"July 26, 2009",20,Mild Side Effects,4
+147946,Norethindrone,Birth Control,"November 26, 2016",26,Mild Side Effects,5
+32306,Lisinopril,High Blood Pressure,"December 13, 2016",66,Mild Side Effects,3
+110633,Nexplanon,Birth Control,"December 8, 2015",0,Moderate Side Effects,3
+42693,Concerta,ADHD,"March 6, 2009",75,Mild Side Effects,4
+186493,Desvenlafaxine,Depression,"May 3, 2010",18,Moderate Side Effects,5
+96537,Sertraline,Depression,"May 31, 2008",43,Severe Side Effects,4
+28243,Lexapro,Generalized Anxiety Disorde,"January 3, 2015",102,Moderate Side Effects,5
+191567,Lisdexamfetamine,ADHD,"April 23, 2014",77,No Side Effects,1
+197829,Onglyza,"Diabetes, Type 2","May 20, 2016",10,Moderate Side Effects,1
+90872,Roxicodone,Pain,"October 3, 2009",48,Moderate Side Effects,5
+73816,Ethinyl estradiol / norethindrone,Birth Control,"July 9, 2012",2,Severe Side Effects,5
+6327,Latanoprost,"Glaucoma, Open Angle","September 24, 2016",10,Extremely Severe Side Effects,5
+129759,Levonorgestrel,Birth Control,"May 21, 2015",12,No Side Effects,1
+28810,Lexapro,Depression,"November 2, 2009",47,Mild Side Effects,4
+148245,Norethindrone,Birth Control,"April 30, 2012",25,Severe Side Effects,3
+131535,Fanapt,Schizophrenia,"May 7, 2013",10,Mild Side Effects,1
+166185,Levonorgestrel,Emergency Contraception,"January 1, 2017",9,No Side Effects,3
+3900,GoLYTELY,Bowel Preparation,"July 16, 2015",30,Mild Side Effects,5
+181133,Amoxapine,Depression,"November 18, 2016",1,Mild Side Effects,5
+204906,Cyproheptadine,Allergic Reactions,"November 20, 2011",29,Mild Side Effects,5
+209535,Levsin SL,Crohn's Disease,"January 10, 2014",15,Extremely Severe Side Effects,5
+168303,Rizatriptan,Migraine,"January 22, 2014",20,No Side Effects,5
+158006,Accutane,Acne,"December 3, 2008",23,No Side Effects,4
+227132,Etonogestrel,Birth Control,"April 12, 2014",5,Extremely Severe Side Effects,2
+37605,Vyvanse,ADHD,"June 14, 2010",8,Severe Side Effects,4
+145852,Qsymia,Weight Loss,"August 2, 2013",43,No Side Effects,1
+40058,Contrave,Obesity,"April 25, 2015",23,No Side Effects,1
+104384,Ethinyl estradiol / levonorgestrel,Birth Control,"February 6, 2012",23,No Side Effects,5
+76244,Liraglutide,Weight Loss,"November 17, 2017",2,Moderate Side Effects,5
+65912,Propranolol,mance Anxiety,"May 7, 2016",19,Moderate Side Effects,5
+137277,Isotretinoin,Acne,"June 12, 2013",17,Extremely Severe Side Effects,5
+129157,Levonorgestrel,Birth Control,"October 12, 2015",7,No Side Effects,1
+165775,Levonorgestrel,Birth Control,"March 31, 2017",2,Mild Side Effects,5
+80046,Benzonatate,Cough,"March 30, 2017",12,No Side Effects,1
+26764,Sprintec,Birth Control,"January 30, 2010",2,Moderate Side Effects,1
+144385,Etonogestrel,Birth Control,"April 24, 2016",10,Mild Side Effects,5
+106861,Implanon,Birth Control,"February 6, 2015",6,Moderate Side Effects,5
+37385,Vyvanse,ADHD,"February 28, 2014",21,Mild Side Effects,2
+174260,Aspirin / dipyridamole,"Ischemic Stroke, Prophylaxis","August 8, 2009",55,Moderate Side Effects,1
+223644,Omalizumab,Urticaria,"April 20, 2017",4,Severe Side Effects,4
+164442,Diclofenac,Pain,"May 1, 2015",25,Moderate Side Effects,5
+84943,Ethinyl estradiol / norgestimate,Birth Control,"February 28, 2016",2,Severe Side Effects,4
+230580,Depo-Provera,Birth Control,"March 18, 2011",1,No Side Effects,4
+191583,Lisdexamfetamine,ADHD,"January 13, 2014",13,Severe Side Effects,5
+23024,Methadone,Chronic Pain,"June 30, 2017",33,Moderate Side Effects,4
+180212,Doxylamine / pyridoxine,Nausea/Vomiting of Pregnancy,"July 16, 2015",11,No Side Effects,5
+36576,Fentanyl,Chronic Pain,"June 20, 2014",13,Moderate Side Effects,5
+156168,Cialis,Erectile Dysfunction,"October 18, 2010",25,No Side Effects,5
+213714,Tioconazole,Vaginal Yeast Infection,"March 5, 2017",1,No Side Effects,1
+117368,Jublia,"Onychomycosis, Toenail","June 14, 2016",14,Mild Side Effects,5
+194857,Levetiracetam,Seizures,"October 3, 2015",13,Mild Side Effects,4
+223541,Sutent,Renal Cell Carcinoma,"November 4, 2010",89,Mild Side Effects,5
+32675,Budesonide / formoterol,moterol),"April 28, 2017",16,Moderate Side Effects,5
+94008,Trintellix,Depression,"December 23, 2016",27,Mild Side Effects,2
+45719,Fluoxetine,Obsessive Compulsive Disorde,"March 9, 2012",73,No Side Effects,4
+9659,Lo Loestrin Fe,Birth Control,"November 20, 2015",17,Mild Side Effects,5
+116705,Lamictal,Bipolar Disorde,"January 25, 2017",15,Mild Side Effects,1
+30706,Miconazole,Vaginal Yeast Infection,"September 9, 2017",5,Severe Side Effects,1
+122904,Ethinyl estradiol / norgestrel,Birth Control,"October 6, 2016",5,No Side Effects,3
+40922,Acetaminophen / oxycodone,Chronic Pain,"August 20, 2016",33,No Side Effects,4
+48303,Tarceva,Non-Small Cell Lung Cance,"March 1, 2017",16,Severe Side Effects,4
+109638,Nexplanon,Birth Control,"September 11, 2016",7,Severe Side Effects,4
+191506,Lisdexamfetamine,Binge Eating Disorde,"July 23, 2015",48,Mild Side Effects,5
+226311,Etonogestrel,Birth Control,"September 7, 2015",5,Mild Side Effects,2
+130404,Levonorgestrel,Emergency Contraception,"May 24, 2013",31,Severe Side Effects,5
+62667,Nicoderm CQ,Smoking Cessation,"January 1, 2016",30,No Side Effects,5
+175233,Mucinex,ibromyalgia,"April 18, 2012",145,No Side Effects,5
+89419,Celexa,Anxiety and Stress,"November 4, 2013",123,Mild Side Effects,4
+85283,Ethinyl estradiol / norgestimate,Birth Control,"August 9, 2015",5,No Side Effects,1
+194724,Q-Dryl,Allergic Reactions,"September 22, 2012",13,No Side Effects,5
+212,Medroxyprogesterone,Abnormal Uterine Bleeding,"October 6, 2015",6,No Side Effects,1
+11095,Drospirenone / ethinyl estradiol / levomefolate calcium,Birth Control,"October 6, 2016",5,Moderate Side Effects,5
+64648,Sertraline,Depression,"November 21, 2015",50,Mild Side Effects,5
+204450,BuSpar,Anxiety,"March 14, 2015",79,No Side Effects,4
+98379,Nexplanon,Birth Control,"May 12, 2015",1,Extremely Severe Side Effects,3
+10490,Spironolactone,Acne,"March 21, 2016",14,Mild Side Effects,5
+193561,Cyclobenzaprine,Muscle Spasm,"October 19, 2009",4,No Side Effects,5
+204281,Exforge HCT,High Blood Pressure,"November 17, 2017",0,Mild Side Effects,5
+149160,Mirena,Birth Control,"May 12, 2015",7,Moderate Side Effects,5
+222341,Kyleena,Birth Control,"October 16, 2017",1,No Side Effects,2
+15791,Ethinyl estradiol / norethindrone,Birth Control,"August 16, 2016",2,Mild Side Effects,1
+221225,Drysol,Hyperhidrosis,"November 12, 2012",5,Mild Side Effects,5
+214042,Tioconazole,Vaginal Yeast Infection,"July 3, 2016",4,Severe Side Effects,1
+121857,Venlafaxine,Depression,"June 27, 2013",83,Moderate Side Effects,5
+218777,Quasense,Birth Control,"September 25, 2016",4,No Side Effects,4
+231156,Zohydro ER,Pain,"August 3, 2017",3,Mild Side Effects,4
+34075,Zoledronic acid,Osteoporosis,"November 13, 2016",13,Moderate Side Effects,5
+183905,Mometasone,Allergic Rhinitis,"May 6, 2016",14,Mild Side Effects,1
+25198,Diovan,High Blood Pressure,"May 11, 2009",125,Severe Side Effects,3
+8956,Viagra,Erectile Dysfunction,"February 21, 2012",43,Moderate Side Effects,5
+109943,Nexplanon,Birth Control,"May 18, 2016",2,No Side Effects,5
+206555,Valsartan,High Blood Pressure,"October 21, 2008",10,No Side Effects,5
+211496,Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,HIV Infection,"August 2, 2017",8,Mild Side Effects,5
+214470,Tioconazole,Vaginal Yeast Infection,"January 16, 2015",22,Severe Side Effects,5
+39868,Contrave,Obesity,"September 12, 2015",26,No Side Effects,5
+141675,Escitalopram,Obsessive Compulsive Disorde,"January 13, 2013",33,Mild Side Effects,4
+72916,Ethinyl estradiol / norethindrone,Birth Control,"June 12, 2015",7,Moderate Side Effects,3
+202651,Hydroxychloroquine,Systemic Lupus Erythematosus,"October 29, 2014",95,Moderate Side Effects,5
+216419,Sildenafil,"Sexual Dysfunction, SSRI Induced","February 14, 2015",90,Moderate Side Effects,5
+33601,Microgestin Fe 1 / 20,Acne,"January 6, 2014",34,Severe Side Effects,5
+136329,Prazosin,Post Traumatic Stress Disorde,"October 16, 2015",28,No Side Effects,4
+10502,Spironolactone,Acne,"January 8, 2016",7,Mild Side Effects,4
+102417,Aripiprazole,Depression,"August 6, 2016",14,Severe Side Effects,1
+225065,Bupropion,Depression,"April 22, 2016",11,No Side Effects,5
+229081,Tadalafil,Erectile Dysfunction,"August 18, 2015",55,Moderate Side Effects,5
+45568,Fluoxetine,Depression,"November 18, 2013",11,No Side Effects,3
+207832,Suprep Bowel Prep Kit,Bowel Preparation,"June 23, 2015",22,Severe Side Effects,5
+185531,Saxenda,Weight Loss,"April 6, 2017",18,Severe Side Effects,5
+227475,Etonogestrel,Birth Control,"March 12, 2013",4,Moderate Side Effects,5
+18136,Ethinyl estradiol / etonogestrel,Birth Control,"September 19, 2011",3,Moderate Side Effects,2
+121013,Venlafaxine,Anxiety,"March 23, 2017",8,Moderate Side Effects,4
+107188,Implanon,Birth Control,"May 1, 2012",0,Mild Side Effects,5
+228835,Tadalafil,Erectile Dysfunction,"July 31, 2017",6,Mild Side Effects,1
+57741,Acetaminophen / hydrocodone,Pain,"May 19, 2013",53,No Side Effects,5
+100425,Desogestrel / ethinyl estradiol,Birth Control,"August 23, 2013",25,Moderate Side Effects,5
+229239,Tadalafil,Erectile Dysfunction,"July 6, 2008",118,No Side Effects,5
+23881,Saphris,Bipolar Disorde,"August 11, 2013",46,Mild Side Effects,5
+149978,Soma,Muscle Spasm,"November 3, 2017",3,Moderate Side Effects,5
+127414,Phentermine,Weight Loss,"November 19, 2017",5,Moderate Side Effects,5
+76845,Lorcaserin,Weight Loss,"December 20, 2015",21,Mild Side Effects,1
+46748,Clindamycin,Acne,"May 31, 2016",14,Extremely Severe Side Effects,1
+213571,Tioconazole,Vaginal Yeast Infection,"September 9, 2017",0,Severe Side Effects,2
+19974,Macrobid,Bladder Infection,"April 23, 2017",18,No Side Effects,1
+221772,Dexlansoprazole,GERD,"October 1, 2016",27,Mild Side Effects,1
+117069,Synvisc-One,Osteoarthritis,"December 15, 2016",38,No Side Effects,5
+227308,Etonogestrel,Birth Control,"September 17, 2013",16,No Side Effects,5
+95492,Otezla,Psoriatic Arthritis,"July 12, 2015",31,No Side Effects,5
+111545,Cipro,Urinary Tract Infection,"October 26, 2015",20,Mild Side Effects,1
+94702,Abilify,Bipolar Disorde,"May 23, 2015",12,Mild Side Effects,1
+36018,Buprenorphine / naloxone,Opiate Dependence,"December 26, 2010",12,Severe Side Effects,5
+81310,Yaz,Premenstrual Dysphoric Disorde,"July 9, 2015",23,Moderate Side Effects,5
+59041,Divalproex sodium,Migraine Prevention,"July 27, 2009",26,No Side Effects,3
+27548,Ivermectin,Rosacea,"February 24, 2017",3,Mild Side Effects,5
+219228,Ortho Cyclen,Endometriosis,"August 2, 2015",7,Severe Side Effects,5
+6950,Aluminum chloride hexahydrate,Hyperhidrosis,"March 2, 2016",11,Mild Side Effects,5
+53336,Edarbyclor,High Blood Pressure,"August 16, 2016",2,No Side Effects,1
+79727,Xarelto,Deep Vein Thrombosis,"July 10, 2017",8,Extremely Severe Side Effects,2
+121063,Venlafaxine,Postpartum Depression,"February 24, 2017",7,No Side Effects,5
+64455,Sertraline,Major Depressive Disorde,"April 26, 2016",35,Mild Side Effects,5
+201365,Zoloft,Panic Disorde,"August 19, 2015",18,No Side Effects,2
+11871,Trulicity,"Diabetes, Type 2","September 20, 2015",21,Mild Side Effects,4
+25153,Diovan,High Blood Pressure,"May 26, 2017",18,Moderate Side Effects,1
+17990,Ethinyl estradiol / etonogestrel,Birth Control,"July 20, 2012",3,No Side Effects,4
+104942,Ethinyl estradiol / levonorgestrel,Birth Control,"November 24, 2009",5,Mild Side Effects,2
+57314,Oxymorphone,Pain,"January 2, 2015",29,Extremely Severe Side Effects,4
+221919,Fluconazole,Tinea Versicol,"October 23, 2016",2,No Side Effects,1
+194056,Stribild,HIV Infection,"May 13, 2015",12,Mild Side Effects,5
+74178,Ethinyl estradiol / norethindrone,Birth Control,"October 9, 2011",1,No Side Effects,5
+43268,Hydromorphone,Chronic Pain,"December 10, 2013",37,Mild Side Effects,5
+81752,Liraglutide,Obesity,"April 18, 2017",21,Mild Side Effects,4
+160957,Risperidone,Schizophrenia,"August 8, 2016",8,No Side Effects,3
+7847,Xanax,Anxiety,"January 15, 2013",70,Extremely Severe Side Effects,5
+21808,Guaifenesin / pseudoephedrine,Cough and Nasal Congestion,"April 14, 2012",6,Mild Side Effects,5
+99822,Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,"May 9, 2016",12,Severe Side Effects,4
+65788,Propranolol,mance Anxiety,"March 23, 2016",25,No Side Effects,5
+189409,Oxycodone,Pain,"June 21, 2012",39,Mild Side Effects,3
+140788,Escitalopram,Generalized Anxiety Disorde,"August 21, 2016",87,Mild Side Effects,5
+106747,Implanon,Birth Control,"May 28, 2015",0,No Side Effects,4
+134795,Nucynta ER,Pain,"November 20, 2015",52,Mild Side Effects,4
+73861,Ethinyl estradiol / norethindrone,Birth Control,"April 17, 2012",45,Moderate Side Effects,5
+130107,Levonorgestrel,Emergency Contraception,"October 29, 2014",30,Extremely Severe Side Effects,5
+198161,Atrovent,Asthma,"January 12, 2013",13,Severe Side Effects,5
+229717,Lurasidone,Schizoaffective Disorde,"October 29, 2012",33,Moderate Side Effects,5
+223485,Tasigna,Chronic Myelogenous Leukemia,"November 30, 2016",2,No Side Effects,1
+88021,Clindamycin,Bacterial Infection,"November 5, 2015",32,Mild Side Effects,5
+60132,NuvaRing,Birth Control,"October 17, 2012",6,Mild Side Effects,5
+152603,Lortab,Back Pain,"August 24, 2011",7,Severe Side Effects,3
+132390,Ativan,Sedation,"November 14, 2009",40,Severe Side Effects,5
+198366,Exenatide,"Diabetes, Type 2","June 1, 2017",0,Mild Side Effects,5
+218859,Depakote,Epilepsy,"January 4, 2016",13,Mild Side Effects,1
+135784,Percocet,Chronic Pain,"November 10, 2013",73,Mild Side Effects,5
+223744,Omalizumab,"Asthma, Maintenance","April 3, 2016",52,Mild Side Effects,5
+125807,Viibryd,Depression,"March 28, 2017",18,Moderate Side Effects,2
+74377,Ethinyl estradiol / norethindrone,Birth Control,"February 28, 2010",11,Mild Side Effects,5
+6170,Minastrin 24 Fe,Birth Control,"June 10, 2015",5,No Side Effects,1
+91969,Lyrica,Neuropathic Pain,"May 27, 2014",78,Moderate Side Effects,4
+146089,Suboxone,Opiate Dependence,"September 15, 2012",22,No Side Effects,5
+64175,Sertraline,Depression,"March 16, 2017",3,No Side Effects,2
+56198,Humira,Psoriasis,"April 20, 2017",21,Mild Side Effects,5
+142324,Levonorgestrel,Birth Control,"November 2, 2017",0,Severe Side Effects,2
+90047,Apomorphine,Parkinson's Disease,"January 15, 2012",5,No Side Effects,2
+183644,Cymbalta,Anxiety,"September 20, 2009",42,Mild Side Effects,5
+226799,Etonogestrel,Birth Control,"February 23, 2015",0,Moderate Side Effects,4
+55557,Dabigatran,Prevention of Thromboembolism in Atrial Fibrillation,"July 22, 2016",4,Moderate Side Effects,5
+103131,Estarylla,Birth Control,"August 9, 2017",3,No Side Effects,1
+113648,Acetaminophen / butalbital / caffeine,Headache,"March 24, 2008",6,Mild Side Effects,3
+54745,Bupropion / naltrexone,Obesity,"April 5, 2017",68,Mild Side Effects,4
+101004,Rexulti,Major Depressive Disorde,"March 7, 2017",35,Mild Side Effects,5
+58818,Pradaxa,Prevention of Thromboembolism in Atrial Fibrillation,"December 28, 2011",13,Extremely Severe Side Effects,5
+53955,Minoxidil,Alopecia,"January 29, 2011",81,No Side Effects,2
+158860,Methylphenidate,ADHD,"November 3, 2011",16,Mild Side Effects,1
+151769,Chantix,Smoking Cessation,"February 14, 2014",15,Extremely Severe Side Effects,4
+215311,Lubiprostone,Irritable Bowel Syndrome,"March 27, 2013",73,Mild Side Effects,5
+115488,Propofol,Anesthesia,"March 19, 2015",30,No Side Effects,5

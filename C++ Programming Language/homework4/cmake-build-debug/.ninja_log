@@ -1,0 +1,16 @@
+# ninja log v5
+0	896	6739410827811698	CMakeFiles/homework4.dir/main.cpp.obj	2369e5ac04a68d91
+2	71	6742016730354731	CMakeFiles/homework4.dir/5.cpp.obj	ece555210a15416b
+316	427	6742028056301775	homework4.exe	e46db83cd12d71f4
+1	387	6743158213876052	build.ninja	babc53fe2578223f
+4	112	6739445603352833	CMakeFiles/homework4.dir/1.cpp.obj	2a54b2f9c8b69f26
+3	159	6741279071580530	CMakeFiles/homework4.dir/2.cpp.obj	c5bb67a5a4080c86
+2	316	6742028055224664	CMakeFiles/homework4.dir/4.cpp.obj	3eb8ebb9054336e4
+3	79	6741416790496422	CMakeFiles/homework4.dir/3.cpp.obj	a6e783b17f8fa0b9
+2	78	6742003327433156	CMakeFiles/homework4.dir/test.cpp.obj	e0756c76ebb0ae6b
+13	70	6742028052771231	CMakeFiles/homework4.dir/new5.cpp.obj	abcb2b945fb8c5bd
+7	139	6743160163146911	CMakeFiles/homework4.dir/4.cpp.obj	3eb8ebb9054336e4
+3	425	6743160166009237	CMakeFiles/homework4.dir/new5.cpp.obj	abcb2b945fb8c5bd
+9	428	6743160166039164	CMakeFiles/homework4.dir/2.cpp.obj	c5bb67a5a4080c86
+3	44	6743160260767427	CMakeFiles/homework4.dir/new5.cpp.obj	abcb2b945fb8c5bd
+44	133	6743160261615498	homework4.exe	92e935b4323133c
